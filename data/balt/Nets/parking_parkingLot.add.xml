@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-09 10:52:22 by Eclipse SUMO netedit Version 1.20.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="2516605830" name="Hudson &amp; Baylis" lane="244330235_0" startPos="0.00" endPos="15.00" friendlyPos="true" lines="65">
+        <access lane="244330235_0" pos="10.00"/>
+    </busStop>
+    <busStop id="bs_0" lane="138388359#16_1" startPos="23.55" endPos="33.55" lines="1"/>
+    <busStop id="bs_1" lane="829470071#5_1" startPos="31.94" endPos="41.94" lines="1"/>
+    <busStop id="bs_10" lane="390061613#8_1" startPos="118.42" endPos="128.42" lines="1"/>
+    <busStop id="bs_12" lane="1087560658_1" startPos="76.65" endPos="86.65" lines="1"/>
+    <busStop id="bs_13" lane="75926225#0_1" startPos="45.40" endPos="55.40" lines="1"/>
+    <busStop id="bs_14" lane="-75926225#2_1" startPos="31.95" endPos="41.95" lines="1"/>
+    <busStop id="bs_15" lane="-390061613#9_1" startPos="119.09" endPos="129.09" lines="1"/>
+    <busStop id="bs_16" lane="-948331274#2_1" startPos="32.93" endPos="42.93" lines="1"/>
+    <busStop id="bs_17" lane="-138388359#16_1" startPos="17.63" endPos="27.63" lines="1"/>
+    <busStop id="bs_2" lane="829470071#1_1" startPos="28.29" endPos="38.29" lines="1"/>
+    <busStop id="bs_3" lane="829470071#2_1" startPos="31.83" endPos="41.83" lines="1"/>
+    <busStop id="bs_4" lane="829470071#6_1" startPos="31.48" endPos="41.48" lines="1"/>
+    <busStop id="bs_5" lane="948331274#5_1" startPos="30.53" endPos="40.53" lines="1"/>
+    <busStop id="bs_6" lane="948331274#1_1" startPos="30.52" endPos="40.52" lines="1"/>
+    <busStop id="bs_7" lane="390061613#1_1" startPos="31.72" endPos="41.72" lines="1"/>
+    <busStop id="bs_8" lane="948331274#8_1" startPos="34.19" endPos="44.19" lines="1"/>
+    <busStop id="bs_9" lane="390061613#3_1" startPos="46.37" endPos="56.37" lines="1"/>
+    <parkingArea id="FleetA" lane="-49664167#6_0" startPos="0.00" endPos="40.00" width="5.00" length="10.00">
+        <space x="1335.00" y="900.00" length="5" angle="0.00"/>
+        <space x="1335.00" y="910.00" length="5" angle="0.00"/>
+        <space x="1335.00" y="880.00" length="5" angle="0.00"/>
+        <space x="1335.00" y="890.00" length="5" angle="0.00"/>
+        <space x="1335.00" y="870.00" length="5" angle="0.00"/>
+    </parkingArea>
+    <parkingArea id="FleetB" lane="192469469#3_0" startPos="0.00" endPos="40.00" width="5.00" length="10.00">
+        <space x="700.00" y="560.00" length="5" angle="0.00"/>
+        <space x="710.00" y="560.00" length="5" angle="0.00"/>
+        <space x="720.00" y="560.00" length="5" angle="0.00"/>
+        <space x="730.00" y="560.00" length="5" angle="0.00"/>
+        <space x="740.00" y="560.00" length="5" angle="0.00"/>
+    </parkingArea>
+    <!-- Other additionals -->
+    <rerouter id="rr0" edges="-49664167#6" pos="1329.97,916.37" vTypes="taxi">
+        <interval begin="0.00" end="86400.00">
+            <parkingAreaReroute id="FleetA"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr1" edges="192469469#3" pos="730.51,568.92" vTypes="taxi">
+        <interval begin="0.00" end="86400.00">
+            <parkingAreaReroute id="FleetB"/>
+        </interval>
+    </rerouter>
+</additional>

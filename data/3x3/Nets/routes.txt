@@ -1,0 +1,2256 @@
+10e to 10w: 10e 10w, Length: 121.20
+10e to 11n: 10e 14s 17w 16w 15w 11n, Length: 363.60
+10e to 11s: 10e 10w 9w 8w 11s, Length: 303.00
+10e to 12n: 10e 14s 17w 16w 12n, Length: 303.00
+10e to 12s: 10e 10w 9w 12s, Length: 242.40
+10e to 13n: 10e 14s 17w 13n, Length: 242.40
+10e to 13s: 10e 10w 13s, Length: 181.80
+10e to 14n: 10e 14s 14n, Length: 181.80
+10e to 14s: 10e 14s, Length: 121.20
+10e to 15e: 10e 14s 17w 16w 15w 15e, Length: 363.60
+10e to 15w: 10e 14s 17w 16w 15w, Length: 303.00
+10e to 16e: 10e 14s 17w 16w 16e, Length: 303.00
+10e to 16w: 10e 14s 17w 16w, Length: 242.40
+10e to 17e: 10e 14s 17w 17e, Length: 242.40
+10e to 17w: 10e 14s 17w, Length: 181.80
+10e to 18n: 10e 14s 17w 16w 15w 18s 18n, Length: 428.20
+10e to 18s: 10e 14s 17w 16w 15w 18s, Length: 365.60
+10e to 19n: 10e 14s 17w 16w 19s 19n, Length: 363.60
+10e to 19s: 10e 14s 17w 16w 19s, Length: 303.00
+10e to 1e: 10e 7n 3w 2w 1w 1e, Length: 371.60
+10e to 1w: 10e 7n 3w 2w 1w, Length: 309.00
+10e to 20n: 10e 14s 17w 20s 20n, Length: 303.00
+10e to 20s: 10e 14s 17w 20s, Length: 242.40
+10e to 21n: 10e 14s 21s 21n, Length: 246.40
+10e to 21s: 10e 14s 21s, Length: 183.80
+10e to 22e: 10e 14s 17w 16w 15w 18s 22e, Length: 428.20
+10e to 22w: 10e 14s 17w 16w 19s 22w, Length: 365.60
+10e to 23e: 10e 14s 17w 16w 19s 23e, Length: 363.60
+10e to 23w: 10e 14s 17w 20s 23w, Length: 303.00
+10e to 24e: 10e 14s 17w 20s 24e, Length: 305.00
+10e to 24w: 10e 14s 21s 24w, Length: 246.40
+10e to 2e: 10e 7n 3w 2w 2e, Length: 307.00
+10e to 2w: 10e 7n 3w 2w, Length: 246.40
+10e to 3e: 10e 7n 3w 3e, Length: 248.40
+10e to 3w: 10e 7n 3w, Length: 185.80
+10e to 4n: 10e 10w 9w 8w 4n, Length: 305.00
+10e to 4s: 10e 7n 3w 2w 1w 4s, Length: 371.60
+10e to 5n: 10e 10w 9w 5n, Length: 242.40
+10e to 5s: 10e 7n 3w 2w 5s, Length: 307.00
+10e to 6n: 10e 10w 6n, Length: 181.80
+10e to 6s: 10e 7n 3w 6s, Length: 246.40
+10e to 7n: 10e 7n, Length: 123.20
+10e to 7s: 10e 7n 7s, Length: 185.80
+10e to 8e: 10e 10w 9w 8w 8e, Length: 303.00
+10e to 8w: 10e 10w 9w 8w, Length: 242.40
+10e to 9e: 10e 10w 9w 9e, Length: 242.40
+10e to 9w: 10e 10w 9w, Length: 181.80
+10w to 10e: 10w 10e, Length: 121.20
+10w to 11n: 10w 9w 8w 11s 11n, Length: 303.00
+10w to 11s: 10w 9w 8w 11s, Length: 242.40
+10w to 12n: 10w 9w 12s 12n, Length: 242.40
+10w to 12s: 10w 9w 12s, Length: 181.80
+10w to 13n: 10w 13s 13n, Length: 181.80
+10w to 13s: 10w 13s, Length: 121.20
+10w to 14n: 10w 13s 17e 14n, Length: 242.40
+10w to 14s: 10w 10e 14s, Length: 181.80
+10w to 15e: 10w 9w 8w 11s 15e, Length: 303.00
+10w to 15w: 10w 9w 12s 15w, Length: 242.40
+10w to 16e: 10w 9w 12s 16e, Length: 242.40
+10w to 16w: 10w 13s 16w, Length: 181.80
+10w to 17e: 10w 13s 17e, Length: 181.80
+10w to 17w: 10w 13s 17e 17w, Length: 242.40
+10w to 18n: 10w 9w 8w 11s 18s 18n, Length: 367.60
+10w to 18s: 10w 9w 8w 11s 18s, Length: 305.00
+10w to 19n: 10w 9w 12s 19s 19n, Length: 303.00
+10w to 19s: 10w 9w 12s 19s, Length: 242.40
+10w to 1e: 10w 6n 2w 1w 1e, Length: 307.00
+10w to 1w: 10w 6n 2w 1w, Length: 244.40
+10w to 20n: 10w 13s 20s 20n, Length: 242.40
+10w to 20s: 10w 13s 20s, Length: 181.80
+10w to 21n: 10w 13s 20s 24e 21n, Length: 307.00
+10w to 21s: 10w 13s 17e 21s, Length: 244.40
+10w to 22e: 10w 9w 8w 11s 18s 22e, Length: 367.60
+10w to 22w: 10w 9w 12s 19s 22w, Length: 305.00
+10w to 23e: 10w 9w 12s 19s 23e, Length: 303.00
+10w to 23w: 10w 13s 20s 23w, Length: 242.40
+10w to 24e: 10w 13s 20s 24e, Length: 244.40
+10w to 24w: 10w 13s 20s 24e 24w, Length: 307.00
+10w to 2e: 10w 6n 2w 2e, Length: 242.40
+10w to 2w: 10w 6n 2w, Length: 181.80
+10w to 3e: 10w 6n 3e, Length: 183.80
+10w to 3w: 10w 6n 3e 3w, Length: 246.40
+10w to 4n: 10w 9w 8w 4n, Length: 244.40
+10w to 4s: 10w 6n 2w 1w 4s, Length: 307.00
+10w to 5n: 10w 9w 5n, Length: 181.80
+10w to 5s: 10w 6n 2w 5s, Length: 242.40
+10w to 6n: 10w 6n, Length: 121.20
+10w to 6s: 10w 6n 6s, Length: 181.80
+10w to 7n: 10w 10e 7n, Length: 183.80
+10w to 7s: 10w 6n 3e 7s, Length: 246.40
+10w to 8e: 10w 9w 8w 8e, Length: 242.40
+10w to 8w: 10w 9w 8w, Length: 181.80
+10w to 9e: 10w 9w 9e, Length: 181.80
+10w to 9w: 10w 9w, Length: 121.20
+11n to 10e: 11n 8e 9e 10e, Length: 242.40
+11n to 10w: 11n 8e 9e 10e 10w, Length: 303.00
+11n to 11s: 11n 11s, Length: 121.20
+11n to 12n: 11n 8e 12s 12n, Length: 242.40
+11n to 12s: 11n 8e 12s, Length: 181.80
+11n to 13n: 11n 8e 12s 16e 13n, Length: 303.00
+11n to 13s: 11n 8e 9e 13s, Length: 242.40
+11n to 14n: 11n 8e 12s 16e 17e 14n, Length: 363.60
+11n to 14s: 11n 8e 9e 10e 14s, Length: 303.00
+11n to 15e: 11n 11s 15e, Length: 181.80
+11n to 15w: 11n 8e 12s 15w, Length: 242.40
+11n to 16e: 11n 8e 12s 16e, Length: 242.40
+11n to 16w: 11n 8e 12s 16e 16w, Length: 303.00
+11n to 17e: 11n 8e 12s 16e 17e, Length: 303.00
+11n to 17w: 11n 8e 12s 16e 17e 17w, Length: 363.60
+11n to 18n: 11n 11s 18s 18n, Length: 246.40
+11n to 18s: 11n 11s 18s, Length: 183.80
+11n to 19n: 11n 8e 12s 19s 19n, Length: 303.00
+11n to 19s: 11n 8e 12s 19s, Length: 242.40
+11n to 1e: 11n 4n 1e, Length: 185.80
+11n to 1w: 11n 8e 5n 1w, Length: 244.40
+11n to 20n: 11n 8e 12s 19s 23e 20n, Length: 363.60
+11n to 20s: 11n 8e 12s 16e 20s, Length: 303.00
+11n to 21n: 11n 8e 12s 19s 23e 24e 21n, Length: 428.20
+11n to 21s: 11n 8e 12s 16e 17e 21s, Length: 365.60
+11n to 22e: 11n 11s 18s 22e, Length: 246.40
+11n to 22w: 11n 8e 12s 19s 22w, Length: 305.00
+11n to 23e: 11n 8e 12s 19s 23e, Length: 303.00
+11n to 23w: 11n 8e 12s 19s 23e 23w, Length: 363.60
+11n to 24e: 11n 8e 12s 19s 23e 24e, Length: 365.60
+11n to 24w: 11n 8e 12s 19s 23e 24e 24w, Length: 428.20
+11n to 2e: 11n 8e 5n 2e, Length: 242.40
+11n to 2w: 11n 8e 9e 6n 2w, Length: 303.00
+11n to 3e: 11n 8e 9e 6n 3e, Length: 305.00
+11n to 3w: 11n 8e 9e 10e 7n 3w, Length: 367.60
+11n to 4n: 11n 4n, Length: 123.20
+11n to 4s: 11n 4n 4s, Length: 185.80
+11n to 5n: 11n 8e 5n, Length: 181.80
+11n to 5s: 11n 8e 5n 5s, Length: 242.40
+11n to 6n: 11n 8e 9e 6n, Length: 242.40
+11n to 6s: 11n 8e 9e 6n 6s, Length: 303.00
+11n to 7n: 11n 8e 9e 10e 7n, Length: 305.00
+11n to 7s: 11n 8e 9e 10e 7n 7s, Length: 367.60
+11n to 8e: 11n 8e, Length: 121.20
+11n to 8w: 11n 8e 8w, Length: 181.80
+11n to 9e: 11n 8e 9e, Length: 181.80
+11n to 9w: 11n 8e 9e 9w, Length: 242.40
+11s to 10e: 11s 15e 16e 13n 10e, Length: 303.00
+11s to 10w: 11s 15e 16e 17e 14n 10w, Length: 363.60
+11s to 11n: 11s 11n, Length: 121.20
+11s to 12n: 11s 15e 12n, Length: 181.80
+11s to 12s: 11s 15e 12n 12s, Length: 242.40
+11s to 13n: 11s 15e 16e 13n, Length: 242.40
+11s to 13s: 11s 15e 16e 13n 13s, Length: 303.00
+11s to 14n: 11s 15e 16e 17e 14n, Length: 303.00
+11s to 14s: 11s 15e 16e 17e 14n 14s, Length: 363.60
+11s to 15e: 11s 15e, Length: 121.20
+11s to 15w: 11s 15e 15w, Length: 181.80
+11s to 16e: 11s 15e 16e, Length: 181.80
+11s to 16w: 11s 15e 16e 16w, Length: 242.40
+11s to 17e: 11s 15e 16e 17e, Length: 242.40
+11s to 17w: 11s 15e 16e 17e 17w, Length: 303.00
+11s to 18n: 11s 18s 18n, Length: 185.80
+11s to 18s: 11s 18s, Length: 123.20
+11s to 19n: 11s 18s 22e 19n, Length: 246.40
+11s to 19s: 11s 15e 19s, Length: 181.80
+11s to 1e: 11s 11n 4n 1e, Length: 246.40
+11s to 1w: 11s 15e 12n 5n 1w, Length: 305.00
+11s to 20n: 11s 18s 22e 23e 20n, Length: 307.00
+11s to 20s: 11s 15e 16e 20s, Length: 242.40
+11s to 21n: 11s 18s 22e 23e 24e 21n, Length: 371.60
+11s to 21s: 11s 15e 16e 17e 21s, Length: 305.00
+11s to 22e: 11s 18s 22e, Length: 185.80
+11s to 22w: 11s 18s 22e 22w, Length: 248.40
+11s to 23e: 11s 18s 22e 23e, Length: 246.40
+11s to 23w: 11s 18s 22e 23e 23w, Length: 307.00
+11s to 24e: 11s 18s 22e 23e 24e, Length: 309.00
+11s to 24w: 11s 18s 22e 23e 24e 24w, Length: 371.60
+11s to 2e: 11s 15e 12n 5n 2e, Length: 303.00
+11s to 2w: 11s 15e 16e 13n 6n 2w, Length: 363.60
+11s to 3e: 11s 15e 16e 13n 6n 3e, Length: 365.60
+11s to 3w: 11s 15e 16e 17e 14n 7n 3w, Length: 428.20
+11s to 4n: 11s 11n 4n, Length: 183.80
+11s to 4s: 11s 11n 4n 4s, Length: 246.40
+11s to 5n: 11s 15e 12n 5n, Length: 242.40
+11s to 5s: 11s 15e 12n 5n 5s, Length: 303.00
+11s to 6n: 11s 15e 16e 13n 6n, Length: 303.00
+11s to 6s: 11s 15e 16e 13n 6n 6s, Length: 363.60
+11s to 7n: 11s 15e 16e 17e 14n 7n, Length: 365.60
+11s to 7s: 11s 15e 16e 17e 14n 7n 7s, Length: 428.20
+11s to 8e: 11s 11n 8e, Length: 181.80
+11s to 8w: 11s 15e 12n 8w, Length: 242.40
+11s to 9e: 11s 15e 12n 9e, Length: 242.40
+11s to 9w: 11s 15e 16e 13n 9w, Length: 303.00
+12n to 10e: 12n 9e 10e, Length: 181.80
+12n to 10w: 12n 9e 10e 10w, Length: 242.40
+12n to 11n: 12n 8w 11s 11n, Length: 242.40
+12n to 11s: 12n 8w 11s, Length: 181.80
+12n to 12s: 12n 12s, Length: 121.20
+12n to 13n: 12n 9e 13s 13n, Length: 242.40
+12n to 13s: 12n 9e 13s, Length: 181.80
+12n to 14n: 12n 9e 13s 17e 14n, Length: 303.00
+12n to 14s: 12n 9e 10e 14s, Length: 242.40
+12n to 15e: 12n 8w 11s 15e, Length: 242.40
+12n to 15w: 12n 12s 15w, Length: 181.80
+12n to 16e: 12n 12s 16e, Length: 181.80
+12n to 16w: 12n 9e 13s 16w, Length: 242.40
+12n to 17e: 12n 9e 13s 17e, Length: 242.40
+12n to 17w: 12n 9e 13s 17e 17w, Length: 303.00
+12n to 18n: 12n 8w 11s 18s 18n, Length: 307.00
+12n to 18s: 12n 8w 11s 18s, Length: 244.40
+12n to 19n: 12n 12s 19s 19n, Length: 242.40
+12n to 19s: 12n 12s 19s, Length: 181.80
+12n to 1e: 12n 5n 1w 1e, Length: 246.40
+12n to 1w: 12n 5n 1w, Length: 183.80
+12n to 20n: 12n 9e 13s 20s 20n, Length: 303.00
+12n to 20s: 12n 9e 13s 20s, Length: 242.40
+12n to 21n: 12n 9e 13s 20s 24e 21n, Length: 367.60
+12n to 21s: 12n 9e 13s 17e 21s, Length: 305.00
+12n to 22e: 12n 8w 11s 18s 22e, Length: 307.00
+12n to 22w: 12n 12s 19s 22w, Length: 244.40
+12n to 23e: 12n 12s 19s 23e, Length: 242.40
+12n to 23w: 12n 9e 13s 20s 23w, Length: 303.00
+12n to 24e: 12n 9e 13s 20s 24e, Length: 305.00
+12n to 24w: 12n 9e 13s 20s 24e 24w, Length: 367.60
+12n to 2e: 12n 5n 2e, Length: 181.80
+12n to 2w: 12n 9e 6n 2w, Length: 242.40
+12n to 3e: 12n 9e 6n 3e, Length: 244.40
+12n to 3w: 12n 9e 10e 7n 3w, Length: 307.00
+12n to 4n: 12n 8w 4n, Length: 183.80
+12n to 4s: 12n 5n 1w 4s, Length: 246.40
+12n to 5n: 12n 5n, Length: 121.20
+12n to 5s: 12n 5n 5s, Length: 181.80
+12n to 6n: 12n 9e 6n, Length: 181.80
+12n to 6s: 12n 9e 6n 6s, Length: 242.40
+12n to 7n: 12n 9e 10e 7n, Length: 244.40
+12n to 7s: 12n 9e 10e 7n 7s, Length: 307.00
+12n to 8e: 12n 8w 8e, Length: 181.80
+12n to 8w: 12n 8w, Length: 121.20
+12n to 9e: 12n 9e, Length: 121.20
+12n to 9w: 12n 9e 9w, Length: 181.80
+12s to 10e: 12s 16e 13n 10e, Length: 242.40
+12s to 10w: 12s 16e 17e 14n 10w, Length: 303.00
+12s to 11n: 12s 15w 11n, Length: 181.80
+12s to 11s: 12s 15w 11n 11s, Length: 242.40
+12s to 12n: 12s 12n, Length: 121.20
+12s to 13n: 12s 16e 13n, Length: 181.80
+12s to 13s: 12s 16e 13n 13s, Length: 242.40
+12s to 14n: 12s 16e 17e 14n, Length: 242.40
+12s to 14s: 12s 16e 17e 14n 14s, Length: 303.00
+12s to 15e: 12s 15w 15e, Length: 181.80
+12s to 15w: 12s 15w, Length: 121.20
+12s to 16e: 12s 16e, Length: 121.20
+12s to 16w: 12s 16e 16w, Length: 181.80
+12s to 17e: 12s 16e 17e, Length: 181.80
+12s to 17w: 12s 16e 17e 17w, Length: 242.40
+12s to 18n: 12s 15w 18s 18n, Length: 246.40
+12s to 18s: 12s 15w 18s, Length: 183.80
+12s to 19n: 12s 19s 19n, Length: 181.80
+12s to 19s: 12s 19s, Length: 121.20
+12s to 1e: 12s 15w 11n 4n 1e, Length: 307.00
+12s to 1w: 12s 12n 5n 1w, Length: 244.40
+12s to 20n: 12s 19s 23e 20n, Length: 242.40
+12s to 20s: 12s 16e 20s, Length: 181.80
+12s to 21n: 12s 19s 23e 24e 21n, Length: 307.00
+12s to 21s: 12s 16e 17e 21s, Length: 244.40
+12s to 22e: 12s 15w 18s 22e, Length: 246.40
+12s to 22w: 12s 19s 22w, Length: 183.80
+12s to 23e: 12s 19s 23e, Length: 181.80
+12s to 23w: 12s 19s 23e 23w, Length: 242.40
+12s to 24e: 12s 19s 23e 24e, Length: 244.40
+12s to 24w: 12s 19s 23e 24e 24w, Length: 307.00
+12s to 2e: 12s 12n 5n 2e, Length: 242.40
+12s to 2w: 12s 16e 13n 6n 2w, Length: 303.00
+12s to 3e: 12s 16e 13n 6n 3e, Length: 305.00
+12s to 3w: 12s 16e 17e 14n 7n 3w, Length: 367.60
+12s to 4n: 12s 15w 11n 4n, Length: 244.40
+12s to 4s: 12s 15w 11n 4n 4s, Length: 307.00
+12s to 5n: 12s 12n 5n, Length: 181.80
+12s to 5s: 12s 12n 5n 5s, Length: 242.40
+12s to 6n: 12s 16e 13n 6n, Length: 242.40
+12s to 6s: 12s 16e 13n 6n 6s, Length: 303.00
+12s to 7n: 12s 16e 17e 14n 7n, Length: 305.00
+12s to 7s: 12s 16e 17e 14n 7n 7s, Length: 367.60
+12s to 8e: 12s 15w 11n 8e, Length: 242.40
+12s to 8w: 12s 12n 8w, Length: 181.80
+12s to 9e: 12s 12n 9e, Length: 181.80
+12s to 9w: 12s 16e 13n 9w, Length: 242.40
+13n to 10e: 13n 10e, Length: 121.20
+13n to 10w: 13n 10e 10w, Length: 181.80
+13n to 11n: 13n 9w 8w 11s 11n, Length: 303.00
+13n to 11s: 13n 9w 8w 11s, Length: 242.40
+13n to 12n: 13n 9w 12s 12n, Length: 242.40
+13n to 12s: 13n 9w 12s, Length: 181.80
+13n to 13s: 13n 13s, Length: 121.20
+13n to 14n: 13n 10e 14s 14n, Length: 242.40
+13n to 14s: 13n 10e 14s, Length: 181.80
+13n to 15e: 13n 9w 8w 11s 15e, Length: 303.00
+13n to 15w: 13n 9w 12s 15w, Length: 242.40
+13n to 16e: 13n 9w 12s 16e, Length: 242.40
+13n to 16w: 13n 13s 16w, Length: 181.80
+13n to 17e: 13n 13s 17e, Length: 181.80
+13n to 17w: 13n 10e 14s 17w, Length: 242.40
+13n to 18n: 13n 9w 8w 11s 18s 18n, Length: 367.60
+13n to 18s: 13n 9w 8w 11s 18s, Length: 305.00
+13n to 19n: 13n 9w 12s 19s 19n, Length: 303.00
+13n to 19s: 13n 9w 12s 19s, Length: 242.40
+13n to 1e: 13n 6n 2w 1w 1e, Length: 307.00
+13n to 1w: 13n 6n 2w 1w, Length: 244.40
+13n to 20n: 13n 13s 20s 20n, Length: 242.40
+13n to 20s: 13n 13s 20s, Length: 181.80
+13n to 21n: 13n 10e 14s 21s 21n, Length: 307.00
+13n to 21s: 13n 10e 14s 21s, Length: 244.40
+13n to 22e: 13n 9w 8w 11s 18s 22e, Length: 367.60
+13n to 22w: 13n 9w 12s 19s 22w, Length: 305.00
+13n to 23e: 13n 9w 12s 19s 23e, Length: 303.00
+13n to 23w: 13n 13s 20s 23w, Length: 242.40
+13n to 24e: 13n 13s 20s 24e, Length: 244.40
+13n to 24w: 13n 10e 14s 21s 24w, Length: 307.00
+13n to 2e: 13n 6n 2w 2e, Length: 242.40
+13n to 2w: 13n 6n 2w, Length: 181.80
+13n to 3e: 13n 6n 3e, Length: 183.80
+13n to 3w: 13n 10e 7n 3w, Length: 246.40
+13n to 4n: 13n 9w 8w 4n, Length: 244.40
+13n to 4s: 13n 6n 2w 1w 4s, Length: 307.00
+13n to 5n: 13n 9w 5n, Length: 181.80
+13n to 5s: 13n 6n 2w 5s, Length: 242.40
+13n to 6n: 13n 6n, Length: 121.20
+13n to 6s: 13n 6n 6s, Length: 181.80
+13n to 7n: 13n 10e 7n, Length: 183.80
+13n to 7s: 13n 10e 7n 7s, Length: 246.40
+13n to 8e: 13n 9w 8w 8e, Length: 242.40
+13n to 8w: 13n 9w 8w, Length: 181.80
+13n to 9e: 13n 9w 9e, Length: 181.80
+13n to 9w: 13n 9w, Length: 121.20
+13s to 10e: 13s 13n 10e, Length: 181.80
+13s to 10w: 13s 17e 14n 10w, Length: 242.40
+13s to 11n: 13s 16w 15w 11n, Length: 242.40
+13s to 11s: 13s 16w 12n 8w 11s, Length: 303.00
+13s to 12n: 13s 16w 12n, Length: 181.80
+13s to 12s: 13s 16w 12n 12s, Length: 242.40
+13s to 13n: 13s 13n, Length: 121.20
+13s to 14n: 13s 17e 14n, Length: 181.80
+13s to 14s: 13s 17e 14n 14s, Length: 242.40
+13s to 15e: 13s 16w 15w 15e, Length: 242.40
+13s to 15w: 13s 16w 15w, Length: 181.80
+13s to 16e: 13s 16w 16e, Length: 181.80
+13s to 16w: 13s 16w, Length: 121.20
+13s to 17e: 13s 17e, Length: 121.20
+13s to 17w: 13s 17e 17w, Length: 181.80
+13s to 18n: 13s 16w 15w 18s 18n, Length: 307.00
+13s to 18s: 13s 16w 15w 18s, Length: 244.40
+13s to 19n: 13s 16w 19s 19n, Length: 242.40
+13s to 19s: 13s 16w 19s, Length: 181.80
+13s to 1e: 13s 16w 12n 5n 1w 1e, Length: 367.60
+13s to 1w: 13s 16w 12n 5n 1w, Length: 305.00
+13s to 20n: 13s 20s 20n, Length: 181.80
+13s to 20s: 13s 20s, Length: 121.20
+13s to 21n: 13s 20s 24e 21n, Length: 246.40
+13s to 21s: 13s 17e 21s, Length: 183.80
+13s to 22e: 13s 16w 15w 18s 22e, Length: 307.00
+13s to 22w: 13s 16w 19s 22w, Length: 244.40
+13s to 23e: 13s 16w 19s 23e, Length: 242.40
+13s to 23w: 13s 20s 23w, Length: 181.80
+13s to 24e: 13s 20s 24e, Length: 183.80
+13s to 24w: 13s 20s 24e 24w, Length: 246.40
+13s to 2e: 13s 16w 12n 5n 2e, Length: 303.00
+13s to 2w: 13s 13n 6n 2w, Length: 242.40
+13s to 3e: 13s 13n 6n 3e, Length: 244.40
+13s to 3w: 13s 17e 14n 7n 3w, Length: 307.00
+13s to 4n: 13s 16w 12n 8w 4n, Length: 305.00
+13s to 4s: 13s 16w 12n 5n 1w 4s, Length: 367.60
+13s to 5n: 13s 16w 12n 5n, Length: 242.40
+13s to 5s: 13s 16w 12n 5n 5s, Length: 303.00
+13s to 6n: 13s 13n 6n, Length: 181.80
+13s to 6s: 13s 13n 6n 6s, Length: 242.40
+13s to 7n: 13s 17e 14n 7n, Length: 244.40
+13s to 7s: 13s 17e 14n 7n 7s, Length: 307.00
+13s to 8e: 13s 16w 12n 8w 8e, Length: 303.00
+13s to 8w: 13s 16w 12n 8w, Length: 242.40
+13s to 9e: 13s 16w 12n 9e, Length: 242.40
+13s to 9w: 13s 13n 9w, Length: 181.80
+14n to 10e: 14n 10w 10e, Length: 181.80
+14n to 10w: 14n 10w, Length: 121.20
+14n to 11n: 14n 10w 9w 8w 11s 11n, Length: 363.60
+14n to 11s: 14n 10w 9w 8w 11s, Length: 303.00
+14n to 12n: 14n 10w 9w 12s 12n, Length: 303.00
+14n to 12s: 14n 10w 9w 12s, Length: 242.40
+14n to 13n: 14n 10w 13s 13n, Length: 242.40
+14n to 13s: 14n 10w 13s, Length: 181.80
+14n to 14s: 14n 14s, Length: 121.20
+14n to 15e: 14n 10w 9w 8w 11s 15e, Length: 363.60
+14n to 15w: 14n 10w 9w 12s 15w, Length: 303.00
+14n to 16e: 14n 10w 9w 12s 16e, Length: 303.00
+14n to 16w: 14n 10w 13s 16w, Length: 242.40
+14n to 17e: 14n 10w 13s 17e, Length: 242.40
+14n to 17w: 14n 14s 17w, Length: 181.80
+14n to 18n: 14n 10w 9w 8w 11s 18s 18n, Length: 428.20
+14n to 18s: 14n 10w 9w 8w 11s 18s, Length: 365.60
+14n to 19n: 14n 10w 9w 12s 19s 19n, Length: 363.60
+14n to 19s: 14n 10w 9w 12s 19s, Length: 303.00
+14n to 1e: 14n 7n 3w 2w 1w 1e, Length: 371.60
+14n to 1w: 14n 7n 3w 2w 1w, Length: 309.00
+14n to 20n: 14n 10w 13s 20s 20n, Length: 303.00
+14n to 20s: 14n 10w 13s 20s, Length: 242.40
+14n to 21n: 14n 14s 21s 21n, Length: 246.40
+14n to 21s: 14n 14s 21s, Length: 183.80
+14n to 22e: 14n 10w 9w 8w 11s 18s 22e, Length: 428.20
+14n to 22w: 14n 10w 9w 12s 19s 22w, Length: 365.60
+14n to 23e: 14n 10w 9w 12s 19s 23e, Length: 363.60
+14n to 23w: 14n 10w 13s 20s 23w, Length: 303.00
+14n to 24e: 14n 10w 13s 20s 24e, Length: 305.00
+14n to 24w: 14n 14s 21s 24w, Length: 246.40
+14n to 2e: 14n 7n 3w 2w 2e, Length: 307.00
+14n to 2w: 14n 7n 3w 2w, Length: 246.40
+14n to 3e: 14n 7n 3w 3e, Length: 248.40
+14n to 3w: 14n 7n 3w, Length: 185.80
+14n to 4n: 14n 10w 9w 8w 4n, Length: 305.00
+14n to 4s: 14n 7n 3w 2w 1w 4s, Length: 371.60
+14n to 5n: 14n 10w 9w 5n, Length: 242.40
+14n to 5s: 14n 7n 3w 2w 5s, Length: 307.00
+14n to 6n: 14n 10w 6n, Length: 181.80
+14n to 6s: 14n 7n 3w 6s, Length: 246.40
+14n to 7n: 14n 7n, Length: 123.20
+14n to 7s: 14n 7n 7s, Length: 185.80
+14n to 8e: 14n 10w 9w 8w 8e, Length: 303.00
+14n to 8w: 14n 10w 9w 8w, Length: 242.40
+14n to 9e: 14n 10w 9w 9e, Length: 242.40
+14n to 9w: 14n 10w 9w, Length: 181.80
+14s to 10e: 14s 17w 13n 10e, Length: 242.40
+14s to 10w: 14s 14n 10w, Length: 181.80
+14s to 11n: 14s 17w 16w 15w 11n, Length: 303.00
+14s to 11s: 14s 17w 13n 9w 8w 11s, Length: 363.60
+14s to 12n: 14s 17w 16w 12n, Length: 242.40
+14s to 12s: 14s 17w 13n 9w 12s, Length: 303.00
+14s to 13n: 14s 17w 13n, Length: 181.80
+14s to 13s: 14s 17w 13n 13s, Length: 242.40
+14s to 14n: 14s 14n, Length: 121.20
+14s to 15e: 14s 17w 16w 15w 15e, Length: 303.00
+14s to 15w: 14s 17w 16w 15w, Length: 242.40
+14s to 16e: 14s 17w 16w 16e, Length: 242.40
+14s to 16w: 14s 17w 16w, Length: 181.80
+14s to 17e: 14s 17w 17e, Length: 181.80
+14s to 17w: 14s 17w, Length: 121.20
+14s to 18n: 14s 17w 16w 15w 18s 18n, Length: 367.60
+14s to 18s: 14s 17w 16w 15w 18s, Length: 305.00
+14s to 19n: 14s 17w 16w 19s 19n, Length: 303.00
+14s to 19s: 14s 17w 16w 19s, Length: 242.40
+14s to 1e: 14s 17w 13n 6n 2w 1w 1e, Length: 428.20
+14s to 1w: 14s 17w 13n 6n 2w 1w, Length: 365.60
+14s to 20n: 14s 17w 20s 20n, Length: 242.40
+14s to 20s: 14s 17w 20s, Length: 181.80
+14s to 21n: 14s 21s 21n, Length: 185.80
+14s to 21s: 14s 21s, Length: 123.20
+14s to 22e: 14s 17w 16w 15w 18s 22e, Length: 367.60
+14s to 22w: 14s 17w 16w 19s 22w, Length: 305.00
+14s to 23e: 14s 17w 16w 19s 23e, Length: 303.00
+14s to 23w: 14s 17w 20s 23w, Length: 242.40
+14s to 24e: 14s 17w 20s 24e, Length: 244.40
+14s to 24w: 14s 21s 24w, Length: 185.80
+14s to 2e: 14s 17w 13n 6n 2w 2e, Length: 363.60
+14s to 2w: 14s 17w 13n 6n 2w, Length: 303.00
+14s to 3e: 14s 17w 13n 6n 3e, Length: 305.00
+14s to 3w: 14s 14n 7n 3w, Length: 246.40
+14s to 4n: 14s 17w 13n 9w 8w 4n, Length: 365.60
+14s to 4s: 14s 17w 13n 6n 2w 1w 4s, Length: 428.20
+14s to 5n: 14s 17w 13n 9w 5n, Length: 303.00
+14s to 5s: 14s 17w 13n 6n 2w 5s, Length: 363.60
+14s to 6n: 14s 17w 13n 6n, Length: 242.40
+14s to 6s: 14s 17w 13n 6n 6s, Length: 303.00
+14s to 7n: 14s 14n 7n, Length: 183.80
+14s to 7s: 14s 14n 7n 7s, Length: 246.40
+14s to 8e: 14s 17w 13n 9w 8w 8e, Length: 363.60
+14s to 8w: 14s 17w 13n 9w 8w, Length: 303.00
+14s to 9e: 14s 17w 13n 9w 9e, Length: 303.00
+14s to 9w: 14s 17w 13n 9w, Length: 242.40
+15e to 10e: 15e 16e 13n 10e, Length: 242.40
+15e to 10w: 15e 16e 17e 14n 10w, Length: 303.00
+15e to 11n: 15e 15w 11n, Length: 181.80
+15e to 11s: 15e 12n 8w 11s, Length: 242.40
+15e to 12n: 15e 12n, Length: 121.20
+15e to 12s: 15e 12n 12s, Length: 181.80
+15e to 13n: 15e 16e 13n, Length: 181.80
+15e to 13s: 15e 16e 13n 13s, Length: 242.40
+15e to 14n: 15e 16e 17e 14n, Length: 242.40
+15e to 14s: 15e 16e 17e 14n 14s, Length: 303.00
+15e to 15w: 15e 15w, Length: 121.20
+15e to 16e: 15e 16e, Length: 121.20
+15e to 16w: 15e 16e 16w, Length: 181.80
+15e to 17e: 15e 16e 17e, Length: 181.80
+15e to 17w: 15e 16e 17e 17w, Length: 242.40
+15e to 18n: 15e 19s 22w 18n, Length: 246.40
+15e to 18s: 15e 15w 18s, Length: 183.80
+15e to 19n: 15e 19s 19n, Length: 181.80
+15e to 19s: 15e 19s, Length: 121.20
+15e to 1e: 15e 12n 5n 1w 1e, Length: 307.00
+15e to 1w: 15e 12n 5n 1w, Length: 244.40
+15e to 20n: 15e 19s 23e 20n, Length: 242.40
+15e to 20s: 15e 16e 20s, Length: 181.80
+15e to 21n: 15e 19s 23e 24e 21n, Length: 307.00
+15e to 21s: 15e 16e 17e 21s, Length: 244.40
+15e to 22e: 15e 19s 22w 22e, Length: 246.40
+15e to 22w: 15e 19s 22w, Length: 183.80
+15e to 23e: 15e 19s 23e, Length: 181.80
+15e to 23w: 15e 19s 23e 23w, Length: 242.40
+15e to 24e: 15e 19s 23e 24e, Length: 244.40
+15e to 24w: 15e 19s 23e 24e 24w, Length: 307.00
+15e to 2e: 15e 12n 5n 2e, Length: 242.40
+15e to 2w: 15e 16e 13n 6n 2w, Length: 303.00
+15e to 3e: 15e 16e 13n 6n 3e, Length: 305.00
+15e to 3w: 15e 16e 17e 14n 7n 3w, Length: 367.60
+15e to 4n: 15e 12n 8w 4n, Length: 244.40
+15e to 4s: 15e 12n 5n 1w 4s, Length: 307.00
+15e to 5n: 15e 12n 5n, Length: 181.80
+15e to 5s: 15e 12n 5n 5s, Length: 242.40
+15e to 6n: 15e 16e 13n 6n, Length: 242.40
+15e to 6s: 15e 16e 13n 6n 6s, Length: 303.00
+15e to 7n: 15e 16e 17e 14n 7n, Length: 305.00
+15e to 7s: 15e 16e 17e 14n 7n 7s, Length: 367.60
+15e to 8e: 15e 12n 8w 8e, Length: 242.40
+15e to 8w: 15e 12n 8w, Length: 181.80
+15e to 9e: 15e 12n 9e, Length: 181.80
+15e to 9w: 15e 16e 13n 9w, Length: 242.40
+15w to 10e: 15w 11n 8e 9e 10e, Length: 303.00
+15w to 10w: 15w 11n 8e 9e 10e 10w, Length: 363.60
+15w to 11n: 15w 11n, Length: 121.20
+15w to 11s: 15w 11n 11s, Length: 181.80
+15w to 12n: 15w 15e 12n, Length: 181.80
+15w to 12s: 15w 11n 8e 12s, Length: 242.40
+15w to 13n: 15w 15e 16e 13n, Length: 242.40
+15w to 13s: 15w 11n 8e 9e 13s, Length: 303.00
+15w to 14n: 15w 15e 16e 17e 14n, Length: 303.00
+15w to 14s: 15w 11n 8e 9e 10e 14s, Length: 363.60
+15w to 15e: 15w 15e, Length: 121.20
+15w to 16e: 15w 15e 16e, Length: 181.80
+15w to 16w: 15w 15e 16e 16w, Length: 242.40
+15w to 17e: 15w 15e 16e 17e, Length: 242.40
+15w to 17w: 15w 15e 16e 17e 17w, Length: 303.00
+15w to 18n: 15w 18s 18n, Length: 185.80
+15w to 18s: 15w 18s, Length: 123.20
+15w to 19n: 15w 18s 22e 19n, Length: 246.40
+15w to 19s: 15w 15e 19s, Length: 181.80
+15w to 1e: 15w 11n 4n 1e, Length: 246.40
+15w to 1w: 15w 11n 8e 5n 1w, Length: 305.00
+15w to 20n: 15w 18s 22e 23e 20n, Length: 307.00
+15w to 20s: 15w 15e 16e 20s, Length: 242.40
+15w to 21n: 15w 18s 22e 23e 24e 21n, Length: 371.60
+15w to 21s: 15w 15e 16e 17e 21s, Length: 305.00
+15w to 22e: 15w 18s 22e, Length: 185.80
+15w to 22w: 15w 18s 22e 22w, Length: 248.40
+15w to 23e: 15w 18s 22e 23e, Length: 246.40
+15w to 23w: 15w 18s 22e 23e 23w, Length: 307.00
+15w to 24e: 15w 18s 22e 23e 24e, Length: 309.00
+15w to 24w: 15w 18s 22e 23e 24e 24w, Length: 371.60
+15w to 2e: 15w 11n 8e 5n 2e, Length: 303.00
+15w to 2w: 15w 11n 8e 9e 6n 2w, Length: 363.60
+15w to 3e: 15w 11n 8e 9e 6n 3e, Length: 365.60
+15w to 3w: 15w 11n 8e 9e 10e 7n 3w, Length: 428.20
+15w to 4n: 15w 11n 4n, Length: 183.80
+15w to 4s: 15w 11n 4n 4s, Length: 246.40
+15w to 5n: 15w 11n 8e 5n, Length: 242.40
+15w to 5s: 15w 11n 8e 5n 5s, Length: 303.00
+15w to 6n: 15w 11n 8e 9e 6n, Length: 303.00
+15w to 6s: 15w 11n 8e 9e 6n 6s, Length: 363.60
+15w to 7n: 15w 11n 8e 9e 10e 7n, Length: 365.60
+15w to 7s: 15w 11n 8e 9e 10e 7n 7s, Length: 428.20
+15w to 8e: 15w 11n 8e, Length: 181.80
+15w to 8w: 15w 11n 8e 8w, Length: 242.40
+15w to 9e: 15w 11n 8e 9e, Length: 242.40
+15w to 9w: 15w 11n 8e 9e 9w, Length: 303.00
+16e to 10e: 16e 13n 10e, Length: 181.80
+16e to 10w: 16e 17e 14n 10w, Length: 242.40
+16e to 11n: 16e 16w 15w 11n, Length: 242.40
+16e to 11s: 16e 13n 9w 8w 11s, Length: 303.00
+16e to 12n: 16e 16w 12n, Length: 181.80
+16e to 12s: 16e 13n 9w 12s, Length: 242.40
+16e to 13n: 16e 13n, Length: 121.20
+16e to 13s: 16e 13n 13s, Length: 181.80
+16e to 14n: 16e 17e 14n, Length: 181.80
+16e to 14s: 16e 17e 14n 14s, Length: 242.40
+16e to 15e: 16e 16w 15w 15e, Length: 242.40
+16e to 15w: 16e 16w 15w, Length: 181.80
+16e to 16w: 16e 16w, Length: 121.20
+16e to 17e: 16e 17e, Length: 121.20
+16e to 17w: 16e 17e 17w, Length: 181.80
+16e to 18n: 16e 20s 23w 22w 18n, Length: 307.00
+16e to 18s: 16e 16w 15w 18s, Length: 244.40
+16e to 19n: 16e 20s 23w 19n, Length: 242.40
+16e to 19s: 16e 16w 19s, Length: 181.80
+16e to 1e: 16e 13n 6n 2w 1w 1e, Length: 367.60
+16e to 1w: 16e 13n 6n 2w 1w, Length: 305.00
+16e to 20n: 16e 20s 20n, Length: 181.80
+16e to 20s: 16e 20s, Length: 121.20
+16e to 21n: 16e 20s 24e 21n, Length: 246.40
+16e to 21s: 16e 17e 21s, Length: 183.80
+16e to 22e: 16e 20s 23w 22w 22e, Length: 307.00
+16e to 22w: 16e 20s 23w 22w, Length: 244.40
+16e to 23e: 16e 20s 23w 23e, Length: 242.40
+16e to 23w: 16e 20s 23w, Length: 181.80
+16e to 24e: 16e 20s 24e, Length: 183.80
+16e to 24w: 16e 20s 24e 24w, Length: 246.40
+16e to 2e: 16e 13n 6n 2w 2e, Length: 303.00
+16e to 2w: 16e 13n 6n 2w, Length: 242.40
+16e to 3e: 16e 13n 6n 3e, Length: 244.40
+16e to 3w: 16e 17e 14n 7n 3w, Length: 307.00
+16e to 4n: 16e 13n 9w 8w 4n, Length: 305.00
+16e to 4s: 16e 13n 6n 2w 1w 4s, Length: 367.60
+16e to 5n: 16e 13n 9w 5n, Length: 242.40
+16e to 5s: 16e 13n 6n 2w 5s, Length: 303.00
+16e to 6n: 16e 13n 6n, Length: 181.80
+16e to 6s: 16e 13n 6n 6s, Length: 242.40
+16e to 7n: 16e 17e 14n 7n, Length: 244.40
+16e to 7s: 16e 17e 14n 7n 7s, Length: 307.00
+16e to 8e: 16e 13n 9w 8w 8e, Length: 303.00
+16e to 8w: 16e 13n 9w 8w, Length: 242.40
+16e to 9e: 16e 13n 9w 9e, Length: 242.40
+16e to 9w: 16e 13n 9w, Length: 181.80
+16w to 10e: 16w 12n 9e 10e, Length: 242.40
+16w to 10w: 16w 12n 9e 10e 10w, Length: 303.00
+16w to 11n: 16w 15w 11n, Length: 181.80
+16w to 11s: 16w 12n 8w 11s, Length: 242.40
+16w to 12n: 16w 12n, Length: 121.20
+16w to 12s: 16w 12n 12s, Length: 181.80
+16w to 13n: 16w 16e 13n, Length: 181.80
+16w to 13s: 16w 12n 9e 13s, Length: 242.40
+16w to 14n: 16w 16e 17e 14n, Length: 242.40
+16w to 14s: 16w 12n 9e 10e 14s, Length: 303.00
+16w to 15e: 16w 15w 15e, Length: 181.80
+16w to 15w: 16w 15w, Length: 121.20
+16w to 16e: 16w 16e, Length: 121.20
+16w to 17e: 16w 16e 17e, Length: 181.80
+16w to 17w: 16w 16e 17e 17w, Length: 242.40
+16w to 18n: 16w 15w 18s 18n, Length: 246.40
+16w to 18s: 16w 15w 18s, Length: 183.80
+16w to 19n: 16w 19s 19n, Length: 181.80
+16w to 19s: 16w 19s, Length: 121.20
+16w to 1e: 16w 12n 5n 1w 1e, Length: 307.00
+16w to 1w: 16w 12n 5n 1w, Length: 244.40
+16w to 20n: 16w 19s 23e 20n, Length: 242.40
+16w to 20s: 16w 16e 20s, Length: 181.80
+16w to 21n: 16w 19s 23e 24e 21n, Length: 307.00
+16w to 21s: 16w 16e 17e 21s, Length: 244.40
+16w to 22e: 16w 15w 18s 22e, Length: 246.40
+16w to 22w: 16w 19s 22w, Length: 183.80
+16w to 23e: 16w 19s 23e, Length: 181.80
+16w to 23w: 16w 19s 23e 23w, Length: 242.40
+16w to 24e: 16w 19s 23e 24e, Length: 244.40
+16w to 24w: 16w 19s 23e 24e 24w, Length: 307.00
+16w to 2e: 16w 12n 5n 2e, Length: 242.40
+16w to 2w: 16w 12n 9e 6n 2w, Length: 303.00
+16w to 3e: 16w 12n 9e 6n 3e, Length: 305.00
+16w to 3w: 16w 12n 9e 10e 7n 3w, Length: 367.60
+16w to 4n: 16w 12n 8w 4n, Length: 244.40
+16w to 4s: 16w 12n 5n 1w 4s, Length: 307.00
+16w to 5n: 16w 12n 5n, Length: 181.80
+16w to 5s: 16w 12n 5n 5s, Length: 242.40
+16w to 6n: 16w 12n 9e 6n, Length: 242.40
+16w to 6s: 16w 12n 9e 6n 6s, Length: 303.00
+16w to 7n: 16w 12n 9e 10e 7n, Length: 305.00
+16w to 7s: 16w 12n 9e 10e 7n 7s, Length: 367.60
+16w to 8e: 16w 12n 8w 8e, Length: 242.40
+16w to 8w: 16w 12n 8w, Length: 181.80
+16w to 9e: 16w 12n 9e, Length: 181.80
+16w to 9w: 16w 12n 9e 9w, Length: 242.40
+17e to 10e: 17e 14n 10w 10e, Length: 242.40
+17e to 10w: 17e 14n 10w, Length: 181.80
+17e to 11n: 17e 17w 16w 15w 11n, Length: 303.00
+17e to 11s: 17e 14n 10w 9w 8w 11s, Length: 363.60
+17e to 12n: 17e 17w 16w 12n, Length: 242.40
+17e to 12s: 17e 14n 10w 9w 12s, Length: 303.00
+17e to 13n: 17e 17w 13n, Length: 181.80
+17e to 13s: 17e 14n 10w 13s, Length: 242.40
+17e to 14n: 17e 14n, Length: 121.20
+17e to 14s: 17e 14n 14s, Length: 181.80
+17e to 15e: 17e 17w 16w 15w 15e, Length: 303.00
+17e to 15w: 17e 17w 16w 15w, Length: 242.40
+17e to 16e: 17e 17w 16w 16e, Length: 242.40
+17e to 16w: 17e 17w 16w, Length: 181.80
+17e to 17w: 17e 17w, Length: 121.20
+17e to 18n: 17e 21s 24w 23w 22w 18n, Length: 371.60
+17e to 18s: 17e 17w 16w 15w 18s, Length: 305.00
+17e to 19n: 17e 21s 24w 23w 19n, Length: 307.00
+17e to 19s: 17e 17w 16w 19s, Length: 242.40
+17e to 1e: 17e 14n 7n 3w 2w 1w 1e, Length: 432.20
+17e to 1w: 17e 14n 7n 3w 2w 1w, Length: 369.60
+17e to 20n: 17e 21s 24w 20n, Length: 246.40
+17e to 20s: 17e 17w 20s, Length: 181.80
+17e to 21n: 17e 21s 21n, Length: 185.80
+17e to 21s: 17e 21s, Length: 123.20
+17e to 22e: 17e 21s 24w 23w 22w 22e, Length: 371.60
+17e to 22w: 17e 21s 24w 23w 22w, Length: 309.00
+17e to 23e: 17e 21s 24w 23w 23e, Length: 307.00
+17e to 23w: 17e 21s 24w 23w, Length: 246.40
+17e to 24e: 17e 21s 24w 24e, Length: 248.40
+17e to 24w: 17e 21s 24w, Length: 185.80
+17e to 2e: 17e 14n 7n 3w 2w 2e, Length: 367.60
+17e to 2w: 17e 14n 7n 3w 2w, Length: 307.00
+17e to 3e: 17e 14n 7n 3w 3e, Length: 309.00
+17e to 3w: 17e 14n 7n 3w, Length: 246.40
+17e to 4n: 17e 14n 10w 9w 8w 4n, Length: 365.60
+17e to 4s: 17e 14n 7n 3w 2w 1w 4s, Length: 432.20
+17e to 5n: 17e 14n 10w 9w 5n, Length: 303.00
+17e to 5s: 17e 14n 7n 3w 2w 5s, Length: 367.60
+17e to 6n: 17e 14n 10w 6n, Length: 242.40
+17e to 6s: 17e 14n 7n 3w 6s, Length: 307.00
+17e to 7n: 17e 14n 7n, Length: 183.80
+17e to 7s: 17e 14n 7n 7s, Length: 246.40
+17e to 8e: 17e 14n 10w 9w 8w 8e, Length: 363.60
+17e to 8w: 17e 14n 10w 9w 8w, Length: 303.00
+17e to 9e: 17e 14n 10w 9w 9e, Length: 303.00
+17e to 9w: 17e 14n 10w 9w, Length: 242.40
+17w to 10e: 17w 13n 10e, Length: 181.80
+17w to 10w: 17w 13n 10e 10w, Length: 242.40
+17w to 11n: 17w 16w 15w 11n, Length: 242.40
+17w to 11s: 17w 13n 9w 8w 11s, Length: 303.00
+17w to 12n: 17w 16w 12n, Length: 181.80
+17w to 12s: 17w 13n 9w 12s, Length: 242.40
+17w to 13n: 17w 13n, Length: 121.20
+17w to 13s: 17w 13n 13s, Length: 181.80
+17w to 14n: 17w 17e 14n, Length: 181.80
+17w to 14s: 17w 13n 10e 14s, Length: 242.40
+17w to 15e: 17w 16w 15w 15e, Length: 242.40
+17w to 15w: 17w 16w 15w, Length: 181.80
+17w to 16e: 17w 16w 16e, Length: 181.80
+17w to 16w: 17w 16w, Length: 121.20
+17w to 17e: 17w 17e, Length: 121.20
+17w to 18n: 17w 16w 15w 18s 18n, Length: 307.00
+17w to 18s: 17w 16w 15w 18s, Length: 244.40
+17w to 19n: 17w 16w 19s 19n, Length: 242.40
+17w to 19s: 17w 16w 19s, Length: 181.80
+17w to 1e: 17w 13n 6n 2w 1w 1e, Length: 367.60
+17w to 1w: 17w 13n 6n 2w 1w, Length: 305.00
+17w to 20n: 17w 20s 20n, Length: 181.80
+17w to 20s: 17w 20s, Length: 121.20
+17w to 21n: 17w 20s 24e 21n, Length: 246.40
+17w to 21s: 17w 17e 21s, Length: 183.80
+17w to 22e: 17w 16w 15w 18s 22e, Length: 307.00
+17w to 22w: 17w 16w 19s 22w, Length: 244.40
+17w to 23e: 17w 16w 19s 23e, Length: 242.40
+17w to 23w: 17w 20s 23w, Length: 181.80
+17w to 24e: 17w 20s 24e, Length: 183.80
+17w to 24w: 17w 20s 24e 24w, Length: 246.40
+17w to 2e: 17w 13n 6n 2w 2e, Length: 303.00
+17w to 2w: 17w 13n 6n 2w, Length: 242.40
+17w to 3e: 17w 13n 6n 3e, Length: 244.40
+17w to 3w: 17w 13n 10e 7n 3w, Length: 307.00
+17w to 4n: 17w 13n 9w 8w 4n, Length: 305.00
+17w to 4s: 17w 13n 6n 2w 1w 4s, Length: 367.60
+17w to 5n: 17w 13n 9w 5n, Length: 242.40
+17w to 5s: 17w 13n 6n 2w 5s, Length: 303.00
+17w to 6n: 17w 13n 6n, Length: 181.80
+17w to 6s: 17w 13n 6n 6s, Length: 242.40
+17w to 7n: 17w 13n 10e 7n, Length: 244.40
+17w to 7s: 17w 13n 10e 7n 7s, Length: 307.00
+17w to 8e: 17w 13n 9w 8w 8e, Length: 303.00
+17w to 8w: 17w 13n 9w 8w, Length: 242.40
+17w to 9e: 17w 13n 9w 9e, Length: 242.40
+17w to 9w: 17w 13n 9w, Length: 181.80
+18n to 10e: 18n 15e 16e 13n 10e, Length: 305.00
+18n to 10w: 18n 15e 16e 17e 14n 10w, Length: 365.60
+18n to 11n: 18n 11n, Length: 123.20
+18n to 11s: 18n 11n 11s, Length: 183.80
+18n to 12n: 18n 15e 12n, Length: 183.80
+18n to 12s: 18n 15e 12n 12s, Length: 244.40
+18n to 13n: 18n 15e 16e 13n, Length: 244.40
+18n to 13s: 18n 15e 16e 13n 13s, Length: 305.00
+18n to 14n: 18n 15e 16e 17e 14n, Length: 305.00
+18n to 14s: 18n 15e 16e 17e 14n 14s, Length: 365.60
+18n to 15e: 18n 15e, Length: 123.20
+18n to 15w: 18n 15e 15w, Length: 183.80
+18n to 16e: 18n 15e 16e, Length: 183.80
+18n to 16w: 18n 15e 16e 16w, Length: 244.40
+18n to 17e: 18n 15e 16e 17e, Length: 244.40
+18n to 17w: 18n 15e 16e 17e 17w, Length: 305.00
+18n to 18s: 18n 18s, Length: 125.20
+18n to 19n: 18n 15e 19s 19n, Length: 244.40
+18n to 19s: 18n 15e 19s, Length: 183.80
+18n to 1e: 18n 11n 4n 1e, Length: 248.40
+18n to 1w: 18n 15e 12n 5n 1w, Length: 307.00
+18n to 20n: 18n 15e 19s 23e 20n, Length: 305.00
+18n to 20s: 18n 15e 16e 20s, Length: 244.40
+18n to 21n: 18n 15e 19s 23e 24e 21n, Length: 369.60
+18n to 21s: 18n 15e 16e 17e 21s, Length: 307.00
+18n to 22e: 18n 18s 22e, Length: 187.80
+18n to 22w: 18n 15e 19s 22w, Length: 246.40
+18n to 23e: 18n 15e 19s 23e, Length: 244.40
+18n to 23w: 18n 15e 19s 23e 23w, Length: 305.00
+18n to 24e: 18n 15e 19s 23e 24e, Length: 307.00
+18n to 24w: 18n 15e 19s 23e 24e 24w, Length: 369.60
+18n to 2e: 18n 15e 12n 5n 2e, Length: 305.00
+18n to 2w: 18n 15e 16e 13n 6n 2w, Length: 365.60
+18n to 3e: 18n 15e 16e 13n 6n 3e, Length: 367.60
+18n to 3w: 18n 15e 16e 17e 14n 7n 3w, Length: 430.20
+18n to 4n: 18n 11n 4n, Length: 185.80
+18n to 4s: 18n 11n 4n 4s, Length: 248.40
+18n to 5n: 18n 15e 12n 5n, Length: 244.40
+18n to 5s: 18n 15e 12n 5n 5s, Length: 305.00
+18n to 6n: 18n 15e 16e 13n 6n, Length: 305.00
+18n to 6s: 18n 15e 16e 13n 6n 6s, Length: 365.60
+18n to 7n: 18n 15e 16e 17e 14n 7n, Length: 367.60
+18n to 7s: 18n 15e 16e 17e 14n 7n 7s, Length: 430.20
+18n to 8e: 18n 11n 8e, Length: 183.80
+18n to 8w: 18n 15e 12n 8w, Length: 244.40
+18n to 9e: 18n 15e 12n 9e, Length: 244.40
+18n to 9w: 18n 15e 16e 13n 9w, Length: 305.00
+18s to 10e: 18s 22e 23e 20n 13n 10e, Length: 367.60
+18s to 10w: 18s 22e 23e 24e 21n 14n 10w, Length: 432.20
+18s to 11n: 18s 18n 11n, Length: 185.80
+18s to 11s: 18s 18n 11n 11s, Length: 246.40
+18s to 12n: 18s 22e 19n 12n, Length: 246.40
+18s to 12s: 18s 22e 19n 12n 12s, Length: 307.00
+18s to 13n: 18s 22e 23e 20n 13n, Length: 307.00
+18s to 13s: 18s 22e 23e 20n 13n 13s, Length: 367.60
+18s to 14n: 18s 22e 23e 24e 21n 14n, Length: 371.60
+18s to 14s: 18s 22e 23e 24e 21n 14n 14s, Length: 432.20
+18s to 15e: 18s 18n 15e, Length: 185.80
+18s to 15w: 18s 22e 19n 15w, Length: 246.40
+18s to 16e: 18s 22e 19n 16e, Length: 246.40
+18s to 16w: 18s 22e 23e 20n 16w, Length: 307.00
+18s to 17e: 18s 22e 23e 20n 17e, Length: 307.00
+18s to 17w: 18s 22e 23e 24e 21n 17w, Length: 371.60
+18s to 18n: 18s 18n, Length: 125.20
+18s to 19n: 18s 22e 19n, Length: 185.80
+18s to 19s: 18s 22e 19n 19s, Length: 246.40
+18s to 1e: 18s 18n 11n 4n 1e, Length: 311.00
+18s to 1w: 18s 22e 19n 12n 5n 1w, Length: 369.60
+18s to 20n: 18s 22e 23e 20n, Length: 246.40
+18s to 20s: 18s 22e 23e 20n 20s, Length: 307.00
+18s to 21n: 18s 22e 23e 24e 21n, Length: 311.00
+18s to 21s: 18s 22e 23e 24e 21n 21s, Length: 373.60
+18s to 22e: 18s 22e, Length: 125.20
+18s to 22w: 18s 22e 22w, Length: 187.80
+18s to 23e: 18s 22e 23e, Length: 185.80
+18s to 23w: 18s 22e 23e 23w, Length: 246.40
+18s to 24e: 18s 22e 23e 24e, Length: 248.40
+18s to 24w: 18s 22e 23e 24e 24w, Length: 311.00
+18s to 2e: 18s 22e 19n 12n 5n 2e, Length: 367.60
+18s to 2w: 18s 22e 23e 20n 13n 6n 2w, Length: 428.20
+18s to 3e: 18s 22e 23e 20n 13n 6n 3e, Length: 430.20
+18s to 3w: 18s 22e 23e 24e 21n 14n 7n 3w, Length: 496.80
+18s to 4n: 18s 18n 11n 4n, Length: 248.40
+18s to 4s: 18s 18n 11n 4n 4s, Length: 311.00
+18s to 5n: 18s 22e 19n 12n 5n, Length: 307.00
+18s to 5s: 18s 22e 19n 12n 5n 5s, Length: 367.60
+18s to 6n: 18s 22e 23e 20n 13n 6n, Length: 367.60
+18s to 6s: 18s 22e 23e 20n 13n 6n 6s, Length: 428.20
+18s to 7n: 18s 22e 23e 24e 21n 14n 7n, Length: 434.20
+18s to 7s: 18s 22e 23e 24e 21n 14n 7n 7s, Length: 496.80
+18s to 8e: 18s 18n 11n 8e, Length: 246.40
+18s to 8w: 18s 22e 19n 12n 8w, Length: 307.00
+18s to 9e: 18s 22e 19n 12n 9e, Length: 307.00
+18s to 9w: 18s 22e 23e 20n 13n 9w, Length: 367.60
+19n to 10e: 19n 16e 13n 10e, Length: 242.40
+19n to 10w: 19n 16e 17e 14n 10w, Length: 303.00
+19n to 11n: 19n 15w 11n, Length: 181.80
+19n to 11s: 19n 12n 8w 11s, Length: 242.40
+19n to 12n: 19n 12n, Length: 121.20
+19n to 12s: 19n 12n 12s, Length: 181.80
+19n to 13n: 19n 16e 13n, Length: 181.80
+19n to 13s: 19n 16e 13n 13s, Length: 242.40
+19n to 14n: 19n 16e 17e 14n, Length: 242.40
+19n to 14s: 19n 16e 17e 14n 14s, Length: 303.00
+19n to 15e: 19n 15w 15e, Length: 181.80
+19n to 15w: 19n 15w, Length: 121.20
+19n to 16e: 19n 16e, Length: 121.20
+19n to 16w: 19n 16e 16w, Length: 181.80
+19n to 17e: 19n 16e 17e, Length: 181.80
+19n to 17w: 19n 16e 17e 17w, Length: 242.40
+19n to 18n: 19n 15w 18s 18n, Length: 246.40
+19n to 18s: 19n 15w 18s, Length: 183.80
+19n to 19s: 19n 19s, Length: 121.20
+19n to 1e: 19n 12n 5n 1w 1e, Length: 307.00
+19n to 1w: 19n 12n 5n 1w, Length: 244.40
+19n to 20n: 19n 16e 20s 20n, Length: 242.40
+19n to 20s: 19n 16e 20s, Length: 181.80
+19n to 21n: 19n 16e 20s 24e 21n, Length: 307.00
+19n to 21s: 19n 16e 17e 21s, Length: 244.40
+19n to 22e: 19n 15w 18s 22e, Length: 246.40
+19n to 22w: 19n 19s 22w, Length: 183.80
+19n to 23e: 19n 19s 23e, Length: 181.80
+19n to 23w: 19n 16e 20s 23w, Length: 242.40
+19n to 24e: 19n 16e 20s 24e, Length: 244.40
+19n to 24w: 19n 16e 20s 24e 24w, Length: 307.00
+19n to 2e: 19n 12n 5n 2e, Length: 242.40
+19n to 2w: 19n 16e 13n 6n 2w, Length: 303.00
+19n to 3e: 19n 16e 13n 6n 3e, Length: 305.00
+19n to 3w: 19n 16e 17e 14n 7n 3w, Length: 367.60
+19n to 4n: 19n 12n 8w 4n, Length: 244.40
+19n to 4s: 19n 12n 5n 1w 4s, Length: 307.00
+19n to 5n: 19n 12n 5n, Length: 181.80
+19n to 5s: 19n 12n 5n 5s, Length: 242.40
+19n to 6n: 19n 16e 13n 6n, Length: 242.40
+19n to 6s: 19n 16e 13n 6n 6s, Length: 303.00
+19n to 7n: 19n 16e 17e 14n 7n, Length: 305.00
+19n to 7s: 19n 16e 17e 14n 7n 7s, Length: 367.60
+19n to 8e: 19n 12n 8w 8e, Length: 242.40
+19n to 8w: 19n 12n 8w, Length: 181.80
+19n to 9e: 19n 12n 9e, Length: 181.80
+19n to 9w: 19n 16e 13n 9w, Length: 242.40
+19s to 10e: 19s 23e 20n 13n 10e, Length: 303.00
+19s to 10w: 19s 23e 24e 21n 14n 10w, Length: 367.60
+19s to 11n: 19s 22w 18n 11n, Length: 246.40
+19s to 11s: 19s 22w 18n 11n 11s, Length: 307.00
+19s to 12n: 19s 19n 12n, Length: 181.80
+19s to 12s: 19s 19n 12n 12s, Length: 242.40
+19s to 13n: 19s 23e 20n 13n, Length: 242.40
+19s to 13s: 19s 23e 20n 13n 13s, Length: 303.00
+19s to 14n: 19s 23e 24e 21n 14n, Length: 307.00
+19s to 14s: 19s 23e 24e 21n 14n 14s, Length: 367.60
+19s to 15e: 19s 22w 18n 15e, Length: 246.40
+19s to 15w: 19s 19n 15w, Length: 181.80
+19s to 16e: 19s 19n 16e, Length: 181.80
+19s to 16w: 19s 23e 20n 16w, Length: 242.40
+19s to 17e: 19s 23e 20n 17e, Length: 242.40
+19s to 17w: 19s 23e 24e 21n 17w, Length: 307.00
+19s to 18n: 19s 22w 18n, Length: 185.80
+19s to 18s: 19s 22w 18n 18s, Length: 248.40
+19s to 19n: 19s 19n, Length: 121.20
+19s to 1e: 19s 22w 18n 11n 4n 1e, Length: 371.60
+19s to 1w: 19s 19n 12n 5n 1w, Length: 305.00
+19s to 20n: 19s 23e 20n, Length: 181.80
+19s to 20s: 19s 23e 20n 20s, Length: 242.40
+19s to 21n: 19s 23e 24e 21n, Length: 246.40
+19s to 21s: 19s 23e 24e 21n 21s, Length: 309.00
+19s to 22e: 19s 22w 22e, Length: 185.80
+19s to 22w: 19s 22w, Length: 123.20
+19s to 23e: 19s 23e, Length: 121.20
+19s to 23w: 19s 23e 23w, Length: 181.80
+19s to 24e: 19s 23e 24e, Length: 183.80
+19s to 24w: 19s 23e 24e 24w, Length: 246.40
+19s to 2e: 19s 19n 12n 5n 2e, Length: 303.00
+19s to 2w: 19s 23e 20n 13n 6n 2w, Length: 363.60
+19s to 3e: 19s 23e 20n 13n 6n 3e, Length: 365.60
+19s to 3w: 19s 23e 24e 21n 14n 7n 3w, Length: 432.20
+19s to 4n: 19s 22w 18n 11n 4n, Length: 309.00
+19s to 4s: 19s 22w 18n 11n 4n 4s, Length: 371.60
+19s to 5n: 19s 19n 12n 5n, Length: 242.40
+19s to 5s: 19s 19n 12n 5n 5s, Length: 303.00
+19s to 6n: 19s 23e 20n 13n 6n, Length: 303.00
+19s to 6s: 19s 23e 20n 13n 6n 6s, Length: 363.60
+19s to 7n: 19s 23e 24e 21n 14n 7n, Length: 369.60
+19s to 7s: 19s 23e 24e 21n 14n 7n 7s, Length: 432.20
+19s to 8e: 19s 22w 18n 11n 8e, Length: 307.00
+19s to 8w: 19s 19n 12n 8w, Length: 242.40
+19s to 9e: 19s 19n 12n 9e, Length: 242.40
+19s to 9w: 19s 23e 20n 13n 9w, Length: 303.00
+1e to 10e: 1e 5s 9e 10e, Length: 244.40
+1e to 10w: 1e 5s 9e 10e 10w, Length: 305.00
+1e to 11n: 1e 5s 8w 11s 11n, Length: 305.00
+1e to 11s: 1e 5s 8w 11s, Length: 244.40
+1e to 12n: 1e 5s 12s 12n, Length: 244.40
+1e to 12s: 1e 5s 12s, Length: 183.80
+1e to 13n: 1e 5s 12s 16e 13n, Length: 305.00
+1e to 13s: 1e 5s 9e 13s, Length: 244.40
+1e to 14n: 1e 5s 12s 16e 17e 14n, Length: 365.60
+1e to 14s: 1e 5s 9e 10e 14s, Length: 305.00
+1e to 15e: 1e 5s 8w 11s 15e, Length: 305.00
+1e to 15w: 1e 5s 12s 15w, Length: 244.40
+1e to 16e: 1e 5s 12s 16e, Length: 244.40
+1e to 16w: 1e 5s 12s 16e 16w, Length: 305.00
+1e to 17e: 1e 5s 12s 16e 17e, Length: 305.00
+1e to 17w: 1e 5s 12s 16e 17e 17w, Length: 365.60
+1e to 18n: 1e 5s 8w 11s 18s 18n, Length: 369.60
+1e to 18s: 1e 5s 8w 11s 18s, Length: 307.00
+1e to 19n: 1e 5s 12s 19s 19n, Length: 305.00
+1e to 19s: 1e 5s 12s 19s, Length: 244.40
+1e to 1w: 1e 1w, Length: 125.20
+1e to 20n: 1e 5s 12s 19s 23e 20n, Length: 365.60
+1e to 20s: 1e 5s 12s 16e 20s, Length: 305.00
+1e to 21n: 1e 5s 12s 19s 23e 24e 21n, Length: 430.20
+1e to 21s: 1e 5s 12s 16e 17e 21s, Length: 367.60
+1e to 22e: 1e 5s 8w 11s 18s 22e, Length: 369.60
+1e to 22w: 1e 5s 12s 19s 22w, Length: 307.00
+1e to 23e: 1e 5s 12s 19s 23e, Length: 305.00
+1e to 23w: 1e 5s 12s 19s 23e 23w, Length: 365.60
+1e to 24e: 1e 5s 12s 19s 23e 24e, Length: 367.60
+1e to 24w: 1e 5s 12s 19s 23e 24e 24w, Length: 430.20
+1e to 2e: 1e 2e, Length: 123.20
+1e to 2w: 1e 2e 2w, Length: 183.80
+1e to 3e: 1e 2e 3e, Length: 185.80
+1e to 3w: 1e 2e 3e 3w, Length: 248.40
+1e to 4n: 1e 5s 8w 4n, Length: 246.40
+1e to 4s: 1e 1w 4s, Length: 187.80
+1e to 5n: 1e 5s 5n, Length: 183.80
+1e to 5s: 1e 5s, Length: 123.20
+1e to 6n: 1e 5s 9e 6n, Length: 244.40
+1e to 6s: 1e 2e 6s, Length: 183.80
+1e to 7n: 1e 5s 9e 10e 7n, Length: 307.00
+1e to 7s: 1e 2e 3e 7s, Length: 248.40
+1e to 8e: 1e 5s 8w 8e, Length: 244.40
+1e to 8w: 1e 5s 8w, Length: 183.80
+1e to 9e: 1e 5s 9e, Length: 183.80
+1e to 9w: 1e 5s 9e 9w, Length: 244.40
+1w to 10e: 1w 4s 8e 9e 10e, Length: 307.00
+1w to 10w: 1w 4s 8e 9e 10e 10w, Length: 367.60
+1w to 11n: 1w 4s 11s 11n, Length: 246.40
+1w to 11s: 1w 4s 11s, Length: 185.80
+1w to 12n: 1w 4s 11s 15e 12n, Length: 307.00
+1w to 12s: 1w 4s 8e 12s, Length: 246.40
+1w to 13n: 1w 4s 11s 15e 16e 13n, Length: 367.60
+1w to 13s: 1w 4s 8e 9e 13s, Length: 307.00
+1w to 14n: 1w 4s 11s 15e 16e 17e 14n, Length: 428.20
+1w to 14s: 1w 4s 8e 9e 10e 14s, Length: 367.60
+1w to 15e: 1w 4s 11s 15e, Length: 246.40
+1w to 15w: 1w 4s 11s 15e 15w, Length: 307.00
+1w to 16e: 1w 4s 11s 15e 16e, Length: 307.00
+1w to 16w: 1w 4s 11s 15e 16e 16w, Length: 367.60
+1w to 17e: 1w 4s 11s 15e 16e 17e, Length: 367.60
+1w to 17w: 1w 4s 11s 15e 16e 17e 17w, Length: 428.20
+1w to 18n: 1w 4s 11s 18s 18n, Length: 311.00
+1w to 18s: 1w 4s 11s 18s, Length: 248.40
+1w to 19n: 1w 4s 11s 18s 22e 19n, Length: 371.60
+1w to 19s: 1w 4s 11s 15e 19s, Length: 307.00
+1w to 1e: 1w 1e, Length: 125.20
+1w to 20n: 1w 4s 11s 18s 22e 23e 20n, Length: 432.20
+1w to 20s: 1w 4s 11s 15e 16e 20s, Length: 367.60
+1w to 21n: 1w 4s 11s 18s 22e 23e 24e 21n, Length: 496.80
+1w to 21s: 1w 4s 11s 15e 16e 17e 21s, Length: 430.20
+1w to 22e: 1w 4s 11s 18s 22e, Length: 311.00
+1w to 22w: 1w 4s 11s 18s 22e 22w, Length: 373.60
+1w to 23e: 1w 4s 11s 18s 22e 23e, Length: 371.60
+1w to 23w: 1w 4s 11s 18s 22e 23e 23w, Length: 432.20
+1w to 24e: 1w 4s 11s 18s 22e 23e 24e, Length: 434.20
+1w to 24w: 1w 4s 11s 18s 22e 23e 24e 24w, Length: 496.80
+1w to 2e: 1w 1e 2e, Length: 185.80
+1w to 2w: 1w 1e 2e 2w, Length: 246.40
+1w to 3e: 1w 1e 2e 3e, Length: 248.40
+1w to 3w: 1w 1e 2e 3e 3w, Length: 311.00
+1w to 4n: 1w 4s 4n, Length: 187.80
+1w to 4s: 1w 4s, Length: 125.20
+1w to 5n: 1w 4s 8e 5n, Length: 246.40
+1w to 5s: 1w 1e 5s, Length: 185.80
+1w to 6n: 1w 4s 8e 9e 6n, Length: 307.00
+1w to 6s: 1w 1e 2e 6s, Length: 246.40
+1w to 7n: 1w 4s 8e 9e 10e 7n, Length: 369.60
+1w to 7s: 1w 1e 2e 3e 7s, Length: 311.00
+1w to 8e: 1w 4s 8e, Length: 185.80
+1w to 8w: 1w 4s 8e 8w, Length: 246.40
+1w to 9e: 1w 4s 8e 9e, Length: 246.40
+1w to 9w: 1w 4s 8e 9e 9w, Length: 307.00
+20n to 10e: 20n 13n 10e, Length: 181.80
+20n to 10w: 20n 17e 14n 10w, Length: 242.40
+20n to 11n: 20n 16w 15w 11n, Length: 242.40
+20n to 11s: 20n 13n 9w 8w 11s, Length: 303.00
+20n to 12n: 20n 16w 12n, Length: 181.80
+20n to 12s: 20n 13n 9w 12s, Length: 242.40
+20n to 13n: 20n 13n, Length: 121.20
+20n to 13s: 20n 13n 13s, Length: 181.80
+20n to 14n: 20n 17e 14n, Length: 181.80
+20n to 14s: 20n 17e 14n 14s, Length: 242.40
+20n to 15e: 20n 16w 15w 15e, Length: 242.40
+20n to 15w: 20n 16w 15w, Length: 181.80
+20n to 16e: 20n 16w 16e, Length: 181.80
+20n to 16w: 20n 16w, Length: 121.20
+20n to 17e: 20n 17e, Length: 121.20
+20n to 17w: 20n 17e 17w, Length: 181.80
+20n to 18n: 20n 16w 15w 18s 18n, Length: 307.00
+20n to 18s: 20n 16w 15w 18s, Length: 244.40
+20n to 19n: 20n 16w 19s 19n, Length: 242.40
+20n to 19s: 20n 16w 19s, Length: 181.80
+20n to 1e: 20n 13n 6n 2w 1w 1e, Length: 367.60
+20n to 1w: 20n 13n 6n 2w 1w, Length: 305.00
+20n to 20s: 20n 20s, Length: 121.20
+20n to 21n: 20n 17e 21s 21n, Length: 246.40
+20n to 21s: 20n 17e 21s, Length: 183.80
+20n to 22e: 20n 16w 15w 18s 22e, Length: 307.00
+20n to 22w: 20n 16w 19s 22w, Length: 244.40
+20n to 23e: 20n 16w 19s 23e, Length: 242.40
+20n to 23w: 20n 20s 23w, Length: 181.80
+20n to 24e: 20n 20s 24e, Length: 183.80
+20n to 24w: 20n 17e 21s 24w, Length: 246.40
+20n to 2e: 20n 13n 6n 2w 2e, Length: 303.00
+20n to 2w: 20n 13n 6n 2w, Length: 242.40
+20n to 3e: 20n 13n 6n 3e, Length: 244.40
+20n to 3w: 20n 17e 14n 7n 3w, Length: 307.00
+20n to 4n: 20n 13n 9w 8w 4n, Length: 305.00
+20n to 4s: 20n 13n 6n 2w 1w 4s, Length: 367.60
+20n to 5n: 20n 13n 9w 5n, Length: 242.40
+20n to 5s: 20n 13n 6n 2w 5s, Length: 303.00
+20n to 6n: 20n 13n 6n, Length: 181.80
+20n to 6s: 20n 13n 6n 6s, Length: 242.40
+20n to 7n: 20n 17e 14n 7n, Length: 244.40
+20n to 7s: 20n 17e 14n 7n 7s, Length: 307.00
+20n to 8e: 20n 13n 9w 8w 8e, Length: 303.00
+20n to 8w: 20n 13n 9w 8w, Length: 242.40
+20n to 9e: 20n 13n 9w 9e, Length: 242.40
+20n to 9w: 20n 13n 9w, Length: 181.80
+20s to 10e: 20s 20n 13n 10e, Length: 242.40
+20s to 10w: 20s 24e 21n 14n 10w, Length: 307.00
+20s to 11n: 20s 23w 19n 15w 11n, Length: 303.00
+20s to 11s: 20s 23w 19n 12n 8w 11s, Length: 363.60
+20s to 12n: 20s 23w 19n 12n, Length: 242.40
+20s to 12s: 20s 23w 19n 12n 12s, Length: 303.00
+20s to 13n: 20s 20n 13n, Length: 181.80
+20s to 13s: 20s 20n 13n 13s, Length: 242.40
+20s to 14n: 20s 24e 21n 14n, Length: 246.40
+20s to 14s: 20s 24e 21n 14n 14s, Length: 307.00
+20s to 15e: 20s 23w 19n 15w 15e, Length: 303.00
+20s to 15w: 20s 23w 19n 15w, Length: 242.40
+20s to 16e: 20s 23w 19n 16e, Length: 242.40
+20s to 16w: 20s 20n 16w, Length: 181.80
+20s to 17e: 20s 20n 17e, Length: 181.80
+20s to 17w: 20s 24e 21n 17w, Length: 246.40
+20s to 18n: 20s 23w 22w 18n, Length: 246.40
+20s to 18s: 20s 23w 19n 15w 18s, Length: 305.00
+20s to 19n: 20s 23w 19n, Length: 181.80
+20s to 19s: 20s 23w 19n 19s, Length: 242.40
+20s to 1e: 20s 23w 19n 12n 5n 1w 1e, Length: 428.20
+20s to 1w: 20s 23w 19n 12n 5n 1w, Length: 365.60
+20s to 20n: 20s 20n, Length: 121.20
+20s to 21n: 20s 24e 21n, Length: 185.80
+20s to 21s: 20s 24e 21n 21s, Length: 248.40
+20s to 22e: 20s 23w 22w 22e, Length: 246.40
+20s to 22w: 20s 23w 22w, Length: 183.80
+20s to 23e: 20s 23w 23e, Length: 181.80
+20s to 23w: 20s 23w, Length: 121.20
+20s to 24e: 20s 24e, Length: 123.20
+20s to 24w: 20s 24e 24w, Length: 185.80
+20s to 2e: 20s 23w 19n 12n 5n 2e, Length: 363.60
+20s to 2w: 20s 20n 13n 6n 2w, Length: 303.00
+20s to 3e: 20s 20n 13n 6n 3e, Length: 305.00
+20s to 3w: 20s 24e 21n 14n 7n 3w, Length: 371.60
+20s to 4n: 20s 23w 19n 12n 8w 4n, Length: 365.60
+20s to 4s: 20s 23w 19n 12n 5n 1w 4s, Length: 428.20
+20s to 5n: 20s 23w 19n 12n 5n, Length: 303.00
+20s to 5s: 20s 23w 19n 12n 5n 5s, Length: 363.60
+20s to 6n: 20s 20n 13n 6n, Length: 242.40
+20s to 6s: 20s 20n 13n 6n 6s, Length: 303.00
+20s to 7n: 20s 24e 21n 14n 7n, Length: 309.00
+20s to 7s: 20s 24e 21n 14n 7n 7s, Length: 371.60
+20s to 8e: 20s 23w 19n 12n 8w 8e, Length: 363.60
+20s to 8w: 20s 23w 19n 12n 8w, Length: 303.00
+20s to 9e: 20s 23w 19n 12n 9e, Length: 303.00
+20s to 9w: 20s 20n 13n 9w, Length: 242.40
+21n to 10e: 21n 14n 10w 10e, Length: 244.40
+21n to 10w: 21n 14n 10w, Length: 183.80
+21n to 11n: 21n 17w 16w 15w 11n, Length: 305.00
+21n to 11s: 21n 14n 10w 9w 8w 11s, Length: 365.60
+21n to 12n: 21n 17w 16w 12n, Length: 244.40
+21n to 12s: 21n 14n 10w 9w 12s, Length: 305.00
+21n to 13n: 21n 17w 13n, Length: 183.80
+21n to 13s: 21n 14n 10w 13s, Length: 244.40
+21n to 14n: 21n 14n, Length: 123.20
+21n to 14s: 21n 14n 14s, Length: 183.80
+21n to 15e: 21n 17w 16w 15w 15e, Length: 305.00
+21n to 15w: 21n 17w 16w 15w, Length: 244.40
+21n to 16e: 21n 17w 16w 16e, Length: 244.40
+21n to 16w: 21n 17w 16w, Length: 183.80
+21n to 17e: 21n 17w 17e, Length: 183.80
+21n to 17w: 21n 17w, Length: 123.20
+21n to 18n: 21n 17w 16w 15w 18s 18n, Length: 369.60
+21n to 18s: 21n 17w 16w 15w 18s, Length: 307.00
+21n to 19n: 21n 17w 16w 19s 19n, Length: 305.00
+21n to 19s: 21n 17w 16w 19s, Length: 244.40
+21n to 1e: 21n 14n 7n 3w 2w 1w 1e, Length: 434.20
+21n to 1w: 21n 14n 7n 3w 2w 1w, Length: 371.60
+21n to 20n: 21n 17w 20s 20n, Length: 244.40
+21n to 20s: 21n 17w 20s, Length: 183.80
+21n to 21s: 21n 21s, Length: 125.20
+21n to 22e: 21n 17w 16w 15w 18s 22e, Length: 369.60
+21n to 22w: 21n 17w 16w 19s 22w, Length: 307.00
+21n to 23e: 21n 17w 16w 19s 23e, Length: 305.00
+21n to 23w: 21n 17w 20s 23w, Length: 244.40
+21n to 24e: 21n 17w 20s 24e, Length: 246.40
+21n to 24w: 21n 21s 24w, Length: 187.80
+21n to 2e: 21n 14n 7n 3w 2w 2e, Length: 369.60
+21n to 2w: 21n 14n 7n 3w 2w, Length: 309.00
+21n to 3e: 21n 14n 7n 3w 3e, Length: 311.00
+21n to 3w: 21n 14n 7n 3w, Length: 248.40
+21n to 4n: 21n 14n 10w 9w 8w 4n, Length: 367.60
+21n to 4s: 21n 14n 7n 3w 2w 1w 4s, Length: 434.20
+21n to 5n: 21n 14n 10w 9w 5n, Length: 305.00
+21n to 5s: 21n 14n 7n 3w 2w 5s, Length: 369.60
+21n to 6n: 21n 14n 10w 6n, Length: 244.40
+21n to 6s: 21n 14n 7n 3w 6s, Length: 309.00
+21n to 7n: 21n 14n 7n, Length: 185.80
+21n to 7s: 21n 14n 7n 7s, Length: 248.40
+21n to 8e: 21n 14n 10w 9w 8w 8e, Length: 365.60
+21n to 8w: 21n 14n 10w 9w 8w, Length: 305.00
+21n to 9e: 21n 14n 10w 9w 9e, Length: 305.00
+21n to 9w: 21n 14n 10w 9w, Length: 244.40
+21s to 10e: 21s 24w 20n 13n 10e, Length: 307.00
+21s to 10w: 21s 21n 14n 10w, Length: 246.40
+21s to 11n: 21s 24w 20n 16w 15w 11n, Length: 367.60
+21s to 11s: 21s 24w 20n 13n 9w 8w 11s, Length: 428.20
+21s to 12n: 21s 24w 20n 16w 12n, Length: 307.00
+21s to 12s: 21s 24w 20n 13n 9w 12s, Length: 367.60
+21s to 13n: 21s 24w 20n 13n, Length: 246.40
+21s to 13s: 21s 24w 20n 13n 13s, Length: 307.00
+21s to 14n: 21s 21n 14n, Length: 185.80
+21s to 14s: 21s 21n 14n 14s, Length: 246.40
+21s to 15e: 21s 24w 20n 16w 15w 15e, Length: 367.60
+21s to 15w: 21s 24w 20n 16w 15w, Length: 307.00
+21s to 16e: 21s 24w 20n 16w 16e, Length: 307.00
+21s to 16w: 21s 24w 20n 16w, Length: 246.40
+21s to 17e: 21s 24w 20n 17e, Length: 246.40
+21s to 17w: 21s 21n 17w, Length: 185.80
+21s to 18n: 21s 24w 23w 22w 18n, Length: 311.00
+21s to 18s: 21s 24w 20n 16w 15w 18s, Length: 369.60
+21s to 19n: 21s 24w 23w 19n, Length: 246.40
+21s to 19s: 21s 24w 20n 16w 19s, Length: 307.00
+21s to 1e: 21s 24w 20n 13n 6n 2w 1w 1e, Length: 492.80
+21s to 1w: 21s 24w 20n 13n 6n 2w 1w, Length: 430.20
+21s to 20n: 21s 24w 20n, Length: 185.80
+21s to 20s: 21s 24w 20n 20s, Length: 246.40
+21s to 21n: 21s 21n, Length: 125.20
+21s to 22e: 21s 24w 23w 22w 22e, Length: 311.00
+21s to 22w: 21s 24w 23w 22w, Length: 248.40
+21s to 23e: 21s 24w 23w 23e, Length: 246.40
+21s to 23w: 21s 24w 23w, Length: 185.80
+21s to 24e: 21s 24w 24e, Length: 187.80
+21s to 24w: 21s 24w, Length: 125.20
+21s to 2e: 21s 24w 20n 13n 6n 2w 2e, Length: 428.20
+21s to 2w: 21s 24w 20n 13n 6n 2w, Length: 367.60
+21s to 3e: 21s 24w 20n 13n 6n 3e, Length: 369.60
+21s to 3w: 21s 21n 14n 7n 3w, Length: 311.00
+21s to 4n: 21s 24w 20n 13n 9w 8w 4n, Length: 430.20
+21s to 4s: 21s 24w 20n 13n 6n 2w 1w 4s, Length: 492.80
+21s to 5n: 21s 24w 20n 13n 9w 5n, Length: 367.60
+21s to 5s: 21s 24w 20n 13n 6n 2w 5s, Length: 428.20
+21s to 6n: 21s 24w 20n 13n 6n, Length: 307.00
+21s to 6s: 21s 24w 20n 13n 6n 6s, Length: 367.60
+21s to 7n: 21s 21n 14n 7n, Length: 248.40
+21s to 7s: 21s 21n 14n 7n 7s, Length: 311.00
+21s to 8e: 21s 24w 20n 13n 9w 8w 8e, Length: 428.20
+21s to 8w: 21s 24w 20n 13n 9w 8w, Length: 367.60
+21s to 9e: 21s 24w 20n 13n 9w 9e, Length: 367.60
+21s to 9w: 21s 24w 20n 13n 9w, Length: 307.00
+22e to 10e: 22e 23e 20n 13n 10e, Length: 305.00
+22e to 10w: 22e 23e 24e 21n 14n 10w, Length: 369.60
+22e to 11n: 22e 19n 15w 11n, Length: 244.40
+22e to 11s: 22e 19n 12n 8w 11s, Length: 305.00
+22e to 12n: 22e 19n 12n, Length: 183.80
+22e to 12s: 22e 19n 12n 12s, Length: 244.40
+22e to 13n: 22e 23e 20n 13n, Length: 244.40
+22e to 13s: 22e 23e 20n 13n 13s, Length: 305.00
+22e to 14n: 22e 23e 24e 21n 14n, Length: 309.00
+22e to 14s: 22e 23e 24e 21n 14n 14s, Length: 369.60
+22e to 15e: 22e 19n 15w 15e, Length: 244.40
+22e to 15w: 22e 19n 15w, Length: 183.80
+22e to 16e: 22e 19n 16e, Length: 183.80
+22e to 16w: 22e 23e 20n 16w, Length: 244.40
+22e to 17e: 22e 23e 20n 17e, Length: 244.40
+22e to 17w: 22e 23e 24e 21n 17w, Length: 309.00
+22e to 18n: 22e 22w 18n, Length: 187.80
+22e to 18s: 22e 19n 15w 18s, Length: 246.40
+22e to 19n: 22e 19n, Length: 123.20
+22e to 19s: 22e 19n 19s, Length: 183.80
+22e to 1e: 22e 19n 12n 5n 1w 1e, Length: 369.60
+22e to 1w: 22e 19n 12n 5n 1w, Length: 307.00
+22e to 20n: 22e 23e 20n, Length: 183.80
+22e to 20s: 22e 23e 20n 20s, Length: 244.40
+22e to 21n: 22e 23e 24e 21n, Length: 248.40
+22e to 21s: 22e 23e 24e 21n 21s, Length: 311.00
+22e to 22w: 22e 22w, Length: 125.20
+22e to 23e: 22e 23e, Length: 123.20
+22e to 23w: 22e 23e 23w, Length: 183.80
+22e to 24e: 22e 23e 24e, Length: 185.80
+22e to 24w: 22e 23e 24e 24w, Length: 248.40
+22e to 2e: 22e 19n 12n 5n 2e, Length: 305.00
+22e to 2w: 22e 23e 20n 13n 6n 2w, Length: 365.60
+22e to 3e: 22e 23e 20n 13n 6n 3e, Length: 367.60
+22e to 3w: 22e 23e 24e 21n 14n 7n 3w, Length: 434.20
+22e to 4n: 22e 19n 12n 8w 4n, Length: 307.00
+22e to 4s: 22e 19n 12n 5n 1w 4s, Length: 369.60
+22e to 5n: 22e 19n 12n 5n, Length: 244.40
+22e to 5s: 22e 19n 12n 5n 5s, Length: 305.00
+22e to 6n: 22e 23e 20n 13n 6n, Length: 305.00
+22e to 6s: 22e 23e 20n 13n 6n 6s, Length: 365.60
+22e to 7n: 22e 23e 24e 21n 14n 7n, Length: 371.60
+22e to 7s: 22e 23e 24e 21n 14n 7n 7s, Length: 434.20
+22e to 8e: 22e 19n 12n 8w 8e, Length: 305.00
+22e to 8w: 22e 19n 12n 8w, Length: 244.40
+22e to 9e: 22e 19n 12n 9e, Length: 244.40
+22e to 9w: 22e 23e 20n 13n 9w, Length: 305.00
+22w to 10e: 22w 18n 15e 16e 13n 10e, Length: 367.60
+22w to 10w: 22w 18n 15e 16e 17e 14n 10w, Length: 428.20
+22w to 11n: 22w 18n 11n, Length: 185.80
+22w to 11s: 22w 18n 11n 11s, Length: 246.40
+22w to 12n: 22w 18n 15e 12n, Length: 246.40
+22w to 12s: 22w 18n 15e 12n 12s, Length: 307.00
+22w to 13n: 22w 18n 15e 16e 13n, Length: 307.00
+22w to 13s: 22w 18n 15e 16e 13n 13s, Length: 367.60
+22w to 14n: 22w 18n 15e 16e 17e 14n, Length: 367.60
+22w to 14s: 22w 18n 15e 16e 17e 14n 14s, Length: 428.20
+22w to 15e: 22w 18n 15e, Length: 185.80
+22w to 15w: 22w 18n 15e 15w, Length: 246.40
+22w to 16e: 22w 18n 15e 16e, Length: 246.40
+22w to 16w: 22w 18n 15e 16e 16w, Length: 307.00
+22w to 17e: 22w 18n 15e 16e 17e, Length: 307.00
+22w to 17w: 22w 18n 15e 16e 17e 17w, Length: 367.60
+22w to 18n: 22w 18n, Length: 125.20
+22w to 18s: 22w 18n 18s, Length: 187.80
+22w to 19n: 22w 22e 19n, Length: 185.80
+22w to 19s: 22w 18n 15e 19s, Length: 246.40
+22w to 1e: 22w 18n 11n 4n 1e, Length: 311.00
+22w to 1w: 22w 18n 15e 12n 5n 1w, Length: 369.60
+22w to 20n: 22w 22e 23e 20n, Length: 246.40
+22w to 20s: 22w 18n 15e 16e 20s, Length: 307.00
+22w to 21n: 22w 22e 23e 24e 21n, Length: 311.00
+22w to 21s: 22w 18n 15e 16e 17e 21s, Length: 369.60
+22w to 22e: 22w 22e, Length: 125.20
+22w to 23e: 22w 22e 23e, Length: 185.80
+22w to 23w: 22w 22e 23e 23w, Length: 246.40
+22w to 24e: 22w 22e 23e 24e, Length: 248.40
+22w to 24w: 22w 22e 23e 24e 24w, Length: 311.00
+22w to 2e: 22w 18n 15e 12n 5n 2e, Length: 367.60
+22w to 2w: 22w 18n 15e 16e 13n 6n 2w, Length: 428.20
+22w to 3e: 22w 18n 15e 16e 13n 6n 3e, Length: 430.20
+22w to 3w: 22w 18n 15e 16e 17e 14n 7n 3w, Length: 492.80
+22w to 4n: 22w 18n 11n 4n, Length: 248.40
+22w to 4s: 22w 18n 11n 4n 4s, Length: 311.00
+22w to 5n: 22w 18n 15e 12n 5n, Length: 307.00
+22w to 5s: 22w 18n 15e 12n 5n 5s, Length: 367.60
+22w to 6n: 22w 18n 15e 16e 13n 6n, Length: 367.60
+22w to 6s: 22w 18n 15e 16e 13n 6n 6s, Length: 428.20
+22w to 7n: 22w 18n 15e 16e 17e 14n 7n, Length: 430.20
+22w to 7s: 22w 18n 15e 16e 17e 14n 7n 7s, Length: 492.80
+22w to 8e: 22w 18n 11n 8e, Length: 246.40
+22w to 8w: 22w 18n 15e 12n 8w, Length: 307.00
+22w to 9e: 22w 18n 15e 12n 9e, Length: 307.00
+22w to 9w: 22w 18n 15e 16e 13n 9w, Length: 367.60
+23e to 10e: 23e 20n 13n 10e, Length: 242.40
+23e to 10w: 23e 24e 21n 14n 10w, Length: 307.00
+23e to 11n: 23e 20n 16w 15w 11n, Length: 303.00
+23e to 11s: 23e 20n 13n 9w 8w 11s, Length: 363.60
+23e to 12n: 23e 20n 16w 12n, Length: 242.40
+23e to 12s: 23e 20n 13n 9w 12s, Length: 303.00
+23e to 13n: 23e 20n 13n, Length: 181.80
+23e to 13s: 23e 20n 13n 13s, Length: 242.40
+23e to 14n: 23e 24e 21n 14n, Length: 246.40
+23e to 14s: 23e 24e 21n 14n 14s, Length: 307.00
+23e to 15e: 23e 20n 16w 15w 15e, Length: 303.00
+23e to 15w: 23e 20n 16w 15w, Length: 242.40
+23e to 16e: 23e 20n 16w 16e, Length: 242.40
+23e to 16w: 23e 20n 16w, Length: 181.80
+23e to 17e: 23e 20n 17e, Length: 181.80
+23e to 17w: 23e 24e 21n 17w, Length: 246.40
+23e to 18n: 23e 23w 22w 18n, Length: 246.40
+23e to 18s: 23e 20n 16w 15w 18s, Length: 305.00
+23e to 19n: 23e 23w 19n, Length: 181.80
+23e to 19s: 23e 20n 16w 19s, Length: 242.40
+23e to 1e: 23e 20n 13n 6n 2w 1w 1e, Length: 428.20
+23e to 1w: 23e 20n 13n 6n 2w 1w, Length: 365.60
+23e to 20n: 23e 20n, Length: 121.20
+23e to 20s: 23e 20n 20s, Length: 181.80
+23e to 21n: 23e 24e 21n, Length: 185.80
+23e to 21s: 23e 24e 21n 21s, Length: 248.40
+23e to 22e: 23e 23w 22w 22e, Length: 246.40
+23e to 22w: 23e 23w 22w, Length: 183.80
+23e to 23w: 23e 23w, Length: 121.20
+23e to 24e: 23e 24e, Length: 123.20
+23e to 24w: 23e 24e 24w, Length: 185.80
+23e to 2e: 23e 20n 13n 6n 2w 2e, Length: 363.60
+23e to 2w: 23e 20n 13n 6n 2w, Length: 303.00
+23e to 3e: 23e 20n 13n 6n 3e, Length: 305.00
+23e to 3w: 23e 24e 21n 14n 7n 3w, Length: 371.60
+23e to 4n: 23e 20n 13n 9w 8w 4n, Length: 365.60
+23e to 4s: 23e 20n 13n 6n 2w 1w 4s, Length: 428.20
+23e to 5n: 23e 20n 13n 9w 5n, Length: 303.00
+23e to 5s: 23e 20n 13n 6n 2w 5s, Length: 363.60
+23e to 6n: 23e 20n 13n 6n, Length: 242.40
+23e to 6s: 23e 20n 13n 6n 6s, Length: 303.00
+23e to 7n: 23e 24e 21n 14n 7n, Length: 309.00
+23e to 7s: 23e 24e 21n 14n 7n 7s, Length: 371.60
+23e to 8e: 23e 20n 13n 9w 8w 8e, Length: 363.60
+23e to 8w: 23e 20n 13n 9w 8w, Length: 303.00
+23e to 9e: 23e 20n 13n 9w 9e, Length: 303.00
+23e to 9w: 23e 20n 13n 9w, Length: 242.40
+23w to 10e: 23w 19n 16e 13n 10e, Length: 303.00
+23w to 10w: 23w 19n 16e 17e 14n 10w, Length: 363.60
+23w to 11n: 23w 19n 15w 11n, Length: 242.40
+23w to 11s: 23w 19n 12n 8w 11s, Length: 303.00
+23w to 12n: 23w 19n 12n, Length: 181.80
+23w to 12s: 23w 19n 12n 12s, Length: 242.40
+23w to 13n: 23w 19n 16e 13n, Length: 242.40
+23w to 13s: 23w 19n 16e 13n 13s, Length: 303.00
+23w to 14n: 23w 19n 16e 17e 14n, Length: 303.00
+23w to 14s: 23w 19n 16e 17e 14n 14s, Length: 363.60
+23w to 15e: 23w 19n 15w 15e, Length: 242.40
+23w to 15w: 23w 19n 15w, Length: 181.80
+23w to 16e: 23w 19n 16e, Length: 181.80
+23w to 16w: 23w 19n 16e 16w, Length: 242.40
+23w to 17e: 23w 19n 16e 17e, Length: 242.40
+23w to 17w: 23w 19n 16e 17e 17w, Length: 303.00
+23w to 18n: 23w 22w 18n, Length: 185.80
+23w to 18s: 23w 19n 15w 18s, Length: 244.40
+23w to 19n: 23w 19n, Length: 121.20
+23w to 19s: 23w 19n 19s, Length: 181.80
+23w to 1e: 23w 19n 12n 5n 1w 1e, Length: 367.60
+23w to 1w: 23w 19n 12n 5n 1w, Length: 305.00
+23w to 20n: 23w 23e 20n, Length: 181.80
+23w to 20s: 23w 19n 16e 20s, Length: 242.40
+23w to 21n: 23w 23e 24e 21n, Length: 246.40
+23w to 21s: 23w 19n 16e 17e 21s, Length: 305.00
+23w to 22e: 23w 22w 22e, Length: 185.80
+23w to 22w: 23w 22w, Length: 123.20
+23w to 23e: 23w 23e, Length: 121.20
+23w to 24e: 23w 23e 24e, Length: 183.80
+23w to 24w: 23w 23e 24e 24w, Length: 246.40
+23w to 2e: 23w 19n 12n 5n 2e, Length: 303.00
+23w to 2w: 23w 19n 16e 13n 6n 2w, Length: 363.60
+23w to 3e: 23w 19n 16e 13n 6n 3e, Length: 365.60
+23w to 3w: 23w 19n 16e 17e 14n 7n 3w, Length: 428.20
+23w to 4n: 23w 19n 12n 8w 4n, Length: 305.00
+23w to 4s: 23w 19n 12n 5n 1w 4s, Length: 367.60
+23w to 5n: 23w 19n 12n 5n, Length: 242.40
+23w to 5s: 23w 19n 12n 5n 5s, Length: 303.00
+23w to 6n: 23w 19n 16e 13n 6n, Length: 303.00
+23w to 6s: 23w 19n 16e 13n 6n 6s, Length: 363.60
+23w to 7n: 23w 19n 16e 17e 14n 7n, Length: 365.60
+23w to 7s: 23w 19n 16e 17e 14n 7n 7s, Length: 428.20
+23w to 8e: 23w 19n 12n 8w 8e, Length: 303.00
+23w to 8w: 23w 19n 12n 8w, Length: 242.40
+23w to 9e: 23w 19n 12n 9e, Length: 242.40
+23w to 9w: 23w 19n 16e 13n 9w, Length: 303.00
+24e to 10e: 24e 21n 14n 10w 10e, Length: 307.00
+24e to 10w: 24e 21n 14n 10w, Length: 246.40
+24e to 11n: 24e 21n 17w 16w 15w 11n, Length: 367.60
+24e to 11s: 24e 21n 14n 10w 9w 8w 11s, Length: 428.20
+24e to 12n: 24e 21n 17w 16w 12n, Length: 307.00
+24e to 12s: 24e 21n 14n 10w 9w 12s, Length: 367.60
+24e to 13n: 24e 21n 17w 13n, Length: 246.40
+24e to 13s: 24e 21n 14n 10w 13s, Length: 307.00
+24e to 14n: 24e 21n 14n, Length: 185.80
+24e to 14s: 24e 21n 14n 14s, Length: 246.40
+24e to 15e: 24e 21n 17w 16w 15w 15e, Length: 367.60
+24e to 15w: 24e 21n 17w 16w 15w, Length: 307.00
+24e to 16e: 24e 21n 17w 16w 16e, Length: 307.00
+24e to 16w: 24e 21n 17w 16w, Length: 246.40
+24e to 17e: 24e 21n 17w 17e, Length: 246.40
+24e to 17w: 24e 21n 17w, Length: 185.80
+24e to 18n: 24e 24w 23w 22w 18n, Length: 311.00
+24e to 18s: 24e 21n 17w 16w 15w 18s, Length: 369.60
+24e to 19n: 24e 24w 23w 19n, Length: 246.40
+24e to 19s: 24e 21n 17w 16w 19s, Length: 307.00
+24e to 1e: 24e 21n 14n 7n 3w 2w 1w 1e, Length: 496.80
+24e to 1w: 24e 21n 14n 7n 3w 2w 1w, Length: 434.20
+24e to 20n: 24e 24w 20n, Length: 185.80
+24e to 20s: 24e 21n 17w 20s, Length: 246.40
+24e to 21n: 24e 21n, Length: 125.20
+24e to 21s: 24e 21n 21s, Length: 187.80
+24e to 22e: 24e 24w 23w 22w 22e, Length: 311.00
+24e to 22w: 24e 24w 23w 22w, Length: 248.40
+24e to 23e: 24e 24w 23w 23e, Length: 246.40
+24e to 23w: 24e 24w 23w, Length: 185.80
+24e to 24w: 24e 24w, Length: 125.20
+24e to 2e: 24e 21n 14n 7n 3w 2w 2e, Length: 432.20
+24e to 2w: 24e 21n 14n 7n 3w 2w, Length: 371.60
+24e to 3e: 24e 21n 14n 7n 3w 3e, Length: 373.60
+24e to 3w: 24e 21n 14n 7n 3w, Length: 311.00
+24e to 4n: 24e 21n 14n 10w 9w 8w 4n, Length: 430.20
+24e to 4s: 24e 21n 14n 7n 3w 2w 1w 4s, Length: 496.80
+24e to 5n: 24e 21n 14n 10w 9w 5n, Length: 367.60
+24e to 5s: 24e 21n 14n 7n 3w 2w 5s, Length: 432.20
+24e to 6n: 24e 21n 14n 10w 6n, Length: 307.00
+24e to 6s: 24e 21n 14n 7n 3w 6s, Length: 371.60
+24e to 7n: 24e 21n 14n 7n, Length: 248.40
+24e to 7s: 24e 21n 14n 7n 7s, Length: 311.00
+24e to 8e: 24e 21n 14n 10w 9w 8w 8e, Length: 428.20
+24e to 8w: 24e 21n 14n 10w 9w 8w, Length: 367.60
+24e to 9e: 24e 21n 14n 10w 9w 9e, Length: 367.60
+24e to 9w: 24e 21n 14n 10w 9w, Length: 307.00
+24w to 10e: 24w 20n 13n 10e, Length: 244.40
+24w to 10w: 24w 20n 17e 14n 10w, Length: 305.00
+24w to 11n: 24w 20n 16w 15w 11n, Length: 305.00
+24w to 11s: 24w 20n 13n 9w 8w 11s, Length: 365.60
+24w to 12n: 24w 20n 16w 12n, Length: 244.40
+24w to 12s: 24w 20n 13n 9w 12s, Length: 305.00
+24w to 13n: 24w 20n 13n, Length: 183.80
+24w to 13s: 24w 20n 13n 13s, Length: 244.40
+24w to 14n: 24w 20n 17e 14n, Length: 244.40
+24w to 14s: 24w 20n 17e 14n 14s, Length: 305.00
+24w to 15e: 24w 20n 16w 15w 15e, Length: 305.00
+24w to 15w: 24w 20n 16w 15w, Length: 244.40
+24w to 16e: 24w 20n 16w 16e, Length: 244.40
+24w to 16w: 24w 20n 16w, Length: 183.80
+24w to 17e: 24w 20n 17e, Length: 183.80
+24w to 17w: 24w 20n 17e 17w, Length: 244.40
+24w to 18n: 24w 23w 22w 18n, Length: 248.40
+24w to 18s: 24w 20n 16w 15w 18s, Length: 307.00
+24w to 19n: 24w 23w 19n, Length: 183.80
+24w to 19s: 24w 20n 16w 19s, Length: 244.40
+24w to 1e: 24w 20n 13n 6n 2w 1w 1e, Length: 430.20
+24w to 1w: 24w 20n 13n 6n 2w 1w, Length: 367.60
+24w to 20n: 24w 20n, Length: 123.20
+24w to 20s: 24w 20n 20s, Length: 183.80
+24w to 21n: 24w 24e 21n, Length: 187.80
+24w to 21s: 24w 20n 17e 21s, Length: 246.40
+24w to 22e: 24w 23w 22w 22e, Length: 248.40
+24w to 22w: 24w 23w 22w, Length: 185.80
+24w to 23e: 24w 23w 23e, Length: 183.80
+24w to 23w: 24w 23w, Length: 123.20
+24w to 24e: 24w 24e, Length: 125.20
+24w to 2e: 24w 20n 13n 6n 2w 2e, Length: 365.60
+24w to 2w: 24w 20n 13n 6n 2w, Length: 305.00
+24w to 3e: 24w 20n 13n 6n 3e, Length: 307.00
+24w to 3w: 24w 20n 17e 14n 7n 3w, Length: 369.60
+24w to 4n: 24w 20n 13n 9w 8w 4n, Length: 367.60
+24w to 4s: 24w 20n 13n 6n 2w 1w 4s, Length: 430.20
+24w to 5n: 24w 20n 13n 9w 5n, Length: 305.00
+24w to 5s: 24w 20n 13n 6n 2w 5s, Length: 365.60
+24w to 6n: 24w 20n 13n 6n, Length: 244.40
+24w to 6s: 24w 20n 13n 6n 6s, Length: 305.00
+24w to 7n: 24w 20n 17e 14n 7n, Length: 307.00
+24w to 7s: 24w 20n 17e 14n 7n 7s, Length: 369.60
+24w to 8e: 24w 20n 13n 9w 8w 8e, Length: 365.60
+24w to 8w: 24w 20n 13n 9w 8w, Length: 305.00
+24w to 9e: 24w 20n 13n 9w 9e, Length: 305.00
+24w to 9w: 24w 20n 13n 9w, Length: 244.40
+2e to 10e: 2e 6s 10e, Length: 181.80
+2e to 10w: 2e 6s 10e 10w, Length: 242.40
+2e to 11n: 2e 6s 9w 8w 11s 11n, Length: 363.60
+2e to 11s: 2e 6s 9w 8w 11s, Length: 303.00
+2e to 12n: 2e 6s 9w 12s 12n, Length: 303.00
+2e to 12s: 2e 6s 9w 12s, Length: 242.40
+2e to 13n: 2e 6s 13s 13n, Length: 242.40
+2e to 13s: 2e 6s 13s, Length: 181.80
+2e to 14n: 2e 6s 13s 17e 14n, Length: 303.00
+2e to 14s: 2e 6s 10e 14s, Length: 242.40
+2e to 15e: 2e 6s 9w 8w 11s 15e, Length: 363.60
+2e to 15w: 2e 6s 9w 12s 15w, Length: 303.00
+2e to 16e: 2e 6s 9w 12s 16e, Length: 303.00
+2e to 16w: 2e 6s 13s 16w, Length: 242.40
+2e to 17e: 2e 6s 13s 17e, Length: 242.40
+2e to 17w: 2e 6s 13s 17e 17w, Length: 303.00
+2e to 18n: 2e 6s 9w 8w 11s 18s 18n, Length: 428.20
+2e to 18s: 2e 6s 9w 8w 11s 18s, Length: 365.60
+2e to 19n: 2e 6s 9w 12s 19s 19n, Length: 363.60
+2e to 19s: 2e 6s 9w 12s 19s, Length: 303.00
+2e to 1e: 2e 2w 1w 1e, Length: 246.40
+2e to 1w: 2e 2w 1w, Length: 183.80
+2e to 20n: 2e 6s 13s 20s 20n, Length: 303.00
+2e to 20s: 2e 6s 13s 20s, Length: 242.40
+2e to 21n: 2e 6s 13s 20s 24e 21n, Length: 367.60
+2e to 21s: 2e 6s 13s 17e 21s, Length: 305.00
+2e to 22e: 2e 6s 9w 8w 11s 18s 22e, Length: 428.20
+2e to 22w: 2e 6s 9w 12s 19s 22w, Length: 365.60
+2e to 23e: 2e 6s 9w 12s 19s 23e, Length: 363.60
+2e to 23w: 2e 6s 13s 20s 23w, Length: 303.00
+2e to 24e: 2e 6s 13s 20s 24e, Length: 305.00
+2e to 24w: 2e 6s 13s 20s 24e 24w, Length: 367.60
+2e to 2w: 2e 2w, Length: 121.20
+2e to 3e: 2e 3e, Length: 123.20
+2e to 3w: 2e 3e 3w, Length: 185.80
+2e to 4n: 2e 6s 9w 8w 4n, Length: 305.00
+2e to 4s: 2e 2w 1w 4s, Length: 246.40
+2e to 5n: 2e 6s 9w 5n, Length: 242.40
+2e to 5s: 2e 2w 5s, Length: 181.80
+2e to 6n: 2e 6s 6n, Length: 181.80
+2e to 6s: 2e 6s, Length: 121.20
+2e to 7n: 2e 6s 10e 7n, Length: 244.40
+2e to 7s: 2e 3e 7s, Length: 185.80
+2e to 8e: 2e 6s 9w 8w 8e, Length: 303.00
+2e to 8w: 2e 6s 9w 8w, Length: 242.40
+2e to 9e: 2e 6s 9w 9e, Length: 242.40
+2e to 9w: 2e 6s 9w, Length: 181.80
+2w to 10e: 2w 5s 9e 10e, Length: 242.40
+2w to 10w: 2w 5s 9e 10e 10w, Length: 303.00
+2w to 11n: 2w 1w 4s 11s 11n, Length: 307.00
+2w to 11s: 2w 1w 4s 11s, Length: 246.40
+2w to 12n: 2w 5s 12s 12n, Length: 242.40
+2w to 12s: 2w 5s 12s, Length: 181.80
+2w to 13n: 2w 5s 12s 16e 13n, Length: 303.00
+2w to 13s: 2w 5s 9e 13s, Length: 242.40
+2w to 14n: 2w 5s 12s 16e 17e 14n, Length: 363.60
+2w to 14s: 2w 5s 9e 10e 14s, Length: 303.00
+2w to 15e: 2w 1w 4s 11s 15e, Length: 307.00
+2w to 15w: 2w 5s 12s 15w, Length: 242.40
+2w to 16e: 2w 5s 12s 16e, Length: 242.40
+2w to 16w: 2w 5s 12s 16e 16w, Length: 303.00
+2w to 17e: 2w 5s 12s 16e 17e, Length: 303.00
+2w to 17w: 2w 5s 12s 16e 17e 17w, Length: 363.60
+2w to 18n: 2w 1w 4s 11s 18s 18n, Length: 371.60
+2w to 18s: 2w 1w 4s 11s 18s, Length: 309.00
+2w to 19n: 2w 5s 12s 19s 19n, Length: 303.00
+2w to 19s: 2w 5s 12s 19s, Length: 242.40
+2w to 1e: 2w 1w 1e, Length: 185.80
+2w to 1w: 2w 1w, Length: 123.20
+2w to 20n: 2w 5s 12s 19s 23e 20n, Length: 363.60
+2w to 20s: 2w 5s 12s 16e 20s, Length: 303.00
+2w to 21n: 2w 5s 12s 19s 23e 24e 21n, Length: 428.20
+2w to 21s: 2w 5s 12s 16e 17e 21s, Length: 365.60
+2w to 22e: 2w 1w 4s 11s 18s 22e, Length: 371.60
+2w to 22w: 2w 5s 12s 19s 22w, Length: 305.00
+2w to 23e: 2w 5s 12s 19s 23e, Length: 303.00
+2w to 23w: 2w 5s 12s 19s 23e 23w, Length: 363.60
+2w to 24e: 2w 5s 12s 19s 23e 24e, Length: 365.60
+2w to 24w: 2w 5s 12s 19s 23e 24e 24w, Length: 428.20
+2w to 2e: 2w 2e, Length: 121.20
+2w to 3e: 2w 2e 3e, Length: 183.80
+2w to 3w: 2w 2e 3e 3w, Length: 246.40
+2w to 4n: 2w 1w 4s 4n, Length: 248.40
+2w to 4s: 2w 1w 4s, Length: 185.80
+2w to 5n: 2w 5s 5n, Length: 181.80
+2w to 5s: 2w 5s, Length: 121.20
+2w to 6n: 2w 5s 9e 6n, Length: 242.40
+2w to 6s: 2w 2e 6s, Length: 181.80
+2w to 7n: 2w 5s 9e 10e 7n, Length: 305.00
+2w to 7s: 2w 2e 3e 7s, Length: 246.40
+2w to 8e: 2w 1w 4s 8e, Length: 246.40
+2w to 8w: 2w 5s 8w, Length: 181.80
+2w to 9e: 2w 5s 9e, Length: 181.80
+2w to 9w: 2w 5s 9e 9w, Length: 242.40
+3e to 10e: 3e 7s 10w 10e, Length: 246.40
+3e to 10w: 3e 7s 10w, Length: 185.80
+3e to 11n: 3e 7s 10w 9w 8w 11s 11n, Length: 428.20
+3e to 11s: 3e 7s 10w 9w 8w 11s, Length: 367.60
+3e to 12n: 3e 7s 10w 9w 12s 12n, Length: 367.60
+3e to 12s: 3e 7s 10w 9w 12s, Length: 307.00
+3e to 13n: 3e 7s 10w 13s 13n, Length: 307.00
+3e to 13s: 3e 7s 10w 13s, Length: 246.40
+3e to 14n: 3e 7s 14s 14n, Length: 246.40
+3e to 14s: 3e 7s 14s, Length: 185.80
+3e to 15e: 3e 7s 10w 9w 8w 11s 15e, Length: 428.20
+3e to 15w: 3e 7s 10w 9w 12s 15w, Length: 367.60
+3e to 16e: 3e 7s 10w 9w 12s 16e, Length: 367.60
+3e to 16w: 3e 7s 10w 13s 16w, Length: 307.00
+3e to 17e: 3e 7s 10w 13s 17e, Length: 307.00
+3e to 17w: 3e 7s 14s 17w, Length: 246.40
+3e to 18n: 3e 7s 10w 9w 8w 11s 18s 18n, Length: 492.80
+3e to 18s: 3e 7s 10w 9w 8w 11s 18s, Length: 430.20
+3e to 19n: 3e 7s 10w 9w 12s 19s 19n, Length: 428.20
+3e to 19s: 3e 7s 10w 9w 12s 19s, Length: 367.60
+3e to 1e: 3e 3w 2w 1w 1e, Length: 311.00
+3e to 1w: 3e 3w 2w 1w, Length: 248.40
+3e to 20n: 3e 7s 10w 13s 20s 20n, Length: 367.60
+3e to 20s: 3e 7s 10w 13s 20s, Length: 307.00
+3e to 21n: 3e 7s 14s 21s 21n, Length: 311.00
+3e to 21s: 3e 7s 14s 21s, Length: 248.40
+3e to 22e: 3e 7s 10w 9w 8w 11s 18s 22e, Length: 492.80
+3e to 22w: 3e 7s 10w 9w 12s 19s 22w, Length: 430.20
+3e to 23e: 3e 7s 10w 9w 12s 19s 23e, Length: 428.20
+3e to 23w: 3e 7s 10w 13s 20s 23w, Length: 367.60
+3e to 24e: 3e 7s 10w 13s 20s 24e, Length: 369.60
+3e to 24w: 3e 7s 14s 21s 24w, Length: 311.00
+3e to 2e: 3e 3w 2w 2e, Length: 246.40
+3e to 2w: 3e 3w 2w, Length: 185.80
+3e to 3w: 3e 3w, Length: 125.20
+3e to 4n: 3e 7s 10w 9w 8w 4n, Length: 369.60
+3e to 4s: 3e 3w 2w 1w 4s, Length: 311.00
+3e to 5n: 3e 7s 10w 9w 5n, Length: 307.00
+3e to 5s: 3e 3w 2w 5s, Length: 246.40
+3e to 6n: 3e 7s 10w 6n, Length: 246.40
+3e to 6s: 3e 3w 6s, Length: 185.80
+3e to 7n: 3e 7s 7n, Length: 187.80
+3e to 7s: 3e 7s, Length: 125.20
+3e to 8e: 3e 7s 10w 9w 8w 8e, Length: 367.60
+3e to 8w: 3e 7s 10w 9w 8w, Length: 307.00
+3e to 9e: 3e 7s 10w 9w 9e, Length: 307.00
+3e to 9w: 3e 7s 10w 9w, Length: 246.40
+3w to 10e: 3w 6s 10e, Length: 183.80
+3w to 10w: 3w 6s 10e 10w, Length: 244.40
+3w to 11n: 3w 2w 1w 4s 11s 11n, Length: 369.60
+3w to 11s: 3w 2w 1w 4s 11s, Length: 309.00
+3w to 12n: 3w 2w 5s 12s 12n, Length: 305.00
+3w to 12s: 3w 2w 5s 12s, Length: 244.40
+3w to 13n: 3w 6s 13s 13n, Length: 244.40
+3w to 13s: 3w 6s 13s, Length: 183.80
+3w to 14n: 3w 6s 13s 17e 14n, Length: 305.00
+3w to 14s: 3w 6s 10e 14s, Length: 244.40
+3w to 15e: 3w 2w 1w 4s 11s 15e, Length: 369.60
+3w to 15w: 3w 2w 5s 12s 15w, Length: 305.00
+3w to 16e: 3w 2w 5s 12s 16e, Length: 305.00
+3w to 16w: 3w 6s 13s 16w, Length: 244.40
+3w to 17e: 3w 6s 13s 17e, Length: 244.40
+3w to 17w: 3w 6s 13s 17e 17w, Length: 305.00
+3w to 18n: 3w 2w 1w 4s 11s 18s 18n, Length: 434.20
+3w to 18s: 3w 2w 1w 4s 11s 18s, Length: 371.60
+3w to 19n: 3w 2w 5s 12s 19s 19n, Length: 365.60
+3w to 19s: 3w 2w 5s 12s 19s, Length: 305.00
+3w to 1e: 3w 2w 1w 1e, Length: 248.40
+3w to 1w: 3w 2w 1w, Length: 185.80
+3w to 20n: 3w 6s 13s 20s 20n, Length: 305.00
+3w to 20s: 3w 6s 13s 20s, Length: 244.40
+3w to 21n: 3w 6s 13s 20s 24e 21n, Length: 369.60
+3w to 21s: 3w 6s 13s 17e 21s, Length: 307.00
+3w to 22e: 3w 2w 1w 4s 11s 18s 22e, Length: 434.20
+3w to 22w: 3w 2w 5s 12s 19s 22w, Length: 367.60
+3w to 23e: 3w 2w 5s 12s 19s 23e, Length: 365.60
+3w to 23w: 3w 6s 13s 20s 23w, Length: 305.00
+3w to 24e: 3w 6s 13s 20s 24e, Length: 307.00
+3w to 24w: 3w 6s 13s 20s 24e 24w, Length: 369.60
+3w to 2e: 3w 2w 2e, Length: 183.80
+3w to 2w: 3w 2w, Length: 123.20
+3w to 3e: 3w 3e, Length: 125.20
+3w to 4n: 3w 2w 1w 4s 4n, Length: 311.00
+3w to 4s: 3w 2w 1w 4s, Length: 248.40
+3w to 5n: 3w 2w 5s 5n, Length: 244.40
+3w to 5s: 3w 2w 5s, Length: 183.80
+3w to 6n: 3w 6s 6n, Length: 183.80
+3w to 6s: 3w 6s, Length: 123.20
+3w to 7n: 3w 6s 10e 7n, Length: 246.40
+3w to 7s: 3w 3e 7s, Length: 187.80
+3w to 8e: 3w 2w 1w 4s 8e, Length: 309.00
+3w to 8w: 3w 2w 5s 8w, Length: 244.40
+3w to 9e: 3w 2w 5s 9e, Length: 244.40
+3w to 9w: 3w 6s 9w, Length: 183.80
+4n to 10e: 4n 1e 5s 9e 10e, Length: 307.00
+4n to 10w: 4n 1e 5s 9e 10e 10w, Length: 367.60
+4n to 11n: 4n 4s 11s 11n, Length: 246.40
+4n to 11s: 4n 4s 11s, Length: 185.80
+4n to 12n: 4n 1e 5s 12s 12n, Length: 307.00
+4n to 12s: 4n 1e 5s 12s, Length: 246.40
+4n to 13n: 4n 1e 5s 12s 16e 13n, Length: 367.60
+4n to 13s: 4n 1e 5s 9e 13s, Length: 307.00
+4n to 14n: 4n 1e 5s 12s 16e 17e 14n, Length: 428.20
+4n to 14s: 4n 1e 5s 9e 10e 14s, Length: 367.60
+4n to 15e: 4n 4s 11s 15e, Length: 246.40
+4n to 15w: 4n 1e 5s 12s 15w, Length: 307.00
+4n to 16e: 4n 1e 5s 12s 16e, Length: 307.00
+4n to 16w: 4n 1e 5s 12s 16e 16w, Length: 367.60
+4n to 17e: 4n 1e 5s 12s 16e 17e, Length: 367.60
+4n to 17w: 4n 1e 5s 12s 16e 17e 17w, Length: 428.20
+4n to 18n: 4n 4s 11s 18s 18n, Length: 311.00
+4n to 18s: 4n 4s 11s 18s, Length: 248.40
+4n to 19n: 4n 1e 5s 12s 19s 19n, Length: 367.60
+4n to 19s: 4n 1e 5s 12s 19s, Length: 307.00
+4n to 1e: 4n 1e, Length: 125.20
+4n to 1w: 4n 1e 1w, Length: 187.80
+4n to 20n: 4n 1e 5s 12s 19s 23e 20n, Length: 428.20
+4n to 20s: 4n 1e 5s 12s 16e 20s, Length: 367.60
+4n to 21n: 4n 1e 5s 12s 19s 23e 24e 21n, Length: 492.80
+4n to 21s: 4n 1e 5s 12s 16e 17e 21s, Length: 430.20
+4n to 22e: 4n 4s 11s 18s 22e, Length: 311.00
+4n to 22w: 4n 1e 5s 12s 19s 22w, Length: 369.60
+4n to 23e: 4n 1e 5s 12s 19s 23e, Length: 367.60
+4n to 23w: 4n 1e 5s 12s 19s 23e 23w, Length: 428.20
+4n to 24e: 4n 1e 5s 12s 19s 23e 24e, Length: 430.20
+4n to 24w: 4n 1e 5s 12s 19s 23e 24e 24w, Length: 492.80
+4n to 2e: 4n 1e 2e, Length: 185.80
+4n to 2w: 4n 1e 2e 2w, Length: 246.40
+4n to 3e: 4n 1e 2e 3e, Length: 248.40
+4n to 3w: 4n 1e 2e 3e 3w, Length: 311.00
+4n to 4s: 4n 4s, Length: 125.20
+4n to 5n: 4n 1e 5s 5n, Length: 246.40
+4n to 5s: 4n 1e 5s, Length: 185.80
+4n to 6n: 4n 1e 5s 9e 6n, Length: 307.00
+4n to 6s: 4n 1e 2e 6s, Length: 246.40
+4n to 7n: 4n 1e 5s 9e 10e 7n, Length: 369.60
+4n to 7s: 4n 1e 2e 3e 7s, Length: 311.00
+4n to 8e: 4n 4s 8e, Length: 185.80
+4n to 8w: 4n 1e 5s 8w, Length: 246.40
+4n to 9e: 4n 1e 5s 9e, Length: 246.40
+4n to 9w: 4n 1e 5s 9e 9w, Length: 307.00
+4s to 10e: 4s 8e 9e 10e, Length: 244.40
+4s to 10w: 4s 8e 9e 10e 10w, Length: 305.00
+4s to 11n: 4s 11s 11n, Length: 183.80
+4s to 11s: 4s 11s, Length: 123.20
+4s to 12n: 4s 11s 15e 12n, Length: 244.40
+4s to 12s: 4s 8e 12s, Length: 183.80
+4s to 13n: 4s 11s 15e 16e 13n, Length: 305.00
+4s to 13s: 4s 8e 9e 13s, Length: 244.40
+4s to 14n: 4s 11s 15e 16e 17e 14n, Length: 365.60
+4s to 14s: 4s 8e 9e 10e 14s, Length: 305.00
+4s to 15e: 4s 11s 15e, Length: 183.80
+4s to 15w: 4s 11s 15e 15w, Length: 244.40
+4s to 16e: 4s 11s 15e 16e, Length: 244.40
+4s to 16w: 4s 11s 15e 16e 16w, Length: 305.00
+4s to 17e: 4s 11s 15e 16e 17e, Length: 305.00
+4s to 17w: 4s 11s 15e 16e 17e 17w, Length: 365.60
+4s to 18n: 4s 11s 18s 18n, Length: 248.40
+4s to 18s: 4s 11s 18s, Length: 185.80
+4s to 19n: 4s 11s 18s 22e 19n, Length: 309.00
+4s to 19s: 4s 11s 15e 19s, Length: 244.40
+4s to 1e: 4s 4n 1e, Length: 187.80
+4s to 1w: 4s 8e 5n 1w, Length: 246.40
+4s to 20n: 4s 11s 18s 22e 23e 20n, Length: 369.60
+4s to 20s: 4s 11s 15e 16e 20s, Length: 305.00
+4s to 21n: 4s 11s 18s 22e 23e 24e 21n, Length: 434.20
+4s to 21s: 4s 11s 15e 16e 17e 21s, Length: 367.60
+4s to 22e: 4s 11s 18s 22e, Length: 248.40
+4s to 22w: 4s 11s 18s 22e 22w, Length: 311.00
+4s to 23e: 4s 11s 18s 22e 23e, Length: 309.00
+4s to 23w: 4s 11s 18s 22e 23e 23w, Length: 369.60
+4s to 24e: 4s 11s 18s 22e 23e 24e, Length: 371.60
+4s to 24w: 4s 11s 18s 22e 23e 24e 24w, Length: 434.20
+4s to 2e: 4s 8e 5n 2e, Length: 244.40
+4s to 2w: 4s 8e 9e 6n 2w, Length: 305.00
+4s to 3e: 4s 8e 9e 6n 3e, Length: 307.00
+4s to 3w: 4s 8e 9e 10e 7n 3w, Length: 369.60
+4s to 4n: 4s 4n, Length: 125.20
+4s to 5n: 4s 8e 5n, Length: 183.80
+4s to 5s: 4s 8e 5n 5s, Length: 244.40
+4s to 6n: 4s 8e 9e 6n, Length: 244.40
+4s to 6s: 4s 8e 9e 6n 6s, Length: 305.00
+4s to 7n: 4s 8e 9e 10e 7n, Length: 307.00
+4s to 7s: 4s 8e 9e 10e 7n 7s, Length: 369.60
+4s to 8e: 4s 8e, Length: 123.20
+4s to 8w: 4s 8e 8w, Length: 183.80
+4s to 9e: 4s 8e 9e, Length: 183.80
+4s to 9w: 4s 8e 9e 9w, Length: 244.40
+5n to 10e: 5n 2e 6s 10e, Length: 242.40
+5n to 10w: 5n 2e 6s 10e 10w, Length: 303.00
+5n to 11n: 5n 1w 4s 11s 11n, Length: 307.00
+5n to 11s: 5n 1w 4s 11s, Length: 246.40
+5n to 12n: 5n 5s 12s 12n, Length: 242.40
+5n to 12s: 5n 5s 12s, Length: 181.80
+5n to 13n: 5n 2e 6s 13s 13n, Length: 303.00
+5n to 13s: 5n 2e 6s 13s, Length: 242.40
+5n to 14n: 5n 2e 6s 13s 17e 14n, Length: 363.60
+5n to 14s: 5n 2e 6s 10e 14s, Length: 303.00
+5n to 15e: 5n 1w 4s 11s 15e, Length: 307.00
+5n to 15w: 5n 5s 12s 15w, Length: 242.40
+5n to 16e: 5n 5s 12s 16e, Length: 242.40
+5n to 16w: 5n 2e 6s 13s 16w, Length: 303.00
+5n to 17e: 5n 2e 6s 13s 17e, Length: 303.00
+5n to 17w: 5n 2e 6s 13s 17e 17w, Length: 363.60
+5n to 18n: 5n 1w 4s 11s 18s 18n, Length: 371.60
+5n to 18s: 5n 1w 4s 11s 18s, Length: 309.00
+5n to 19n: 5n 5s 12s 19s 19n, Length: 303.00
+5n to 19s: 5n 5s 12s 19s, Length: 242.40
+5n to 1e: 5n 1w 1e, Length: 185.80
+5n to 1w: 5n 1w, Length: 123.20
+5n to 20n: 5n 2e 6s 13s 20s 20n, Length: 363.60
+5n to 20s: 5n 2e 6s 13s 20s, Length: 303.00
+5n to 21n: 5n 2e 6s 13s 20s 24e 21n, Length: 428.20
+5n to 21s: 5n 2e 6s 13s 17e 21s, Length: 365.60
+5n to 22e: 5n 1w 4s 11s 18s 22e, Length: 371.60
+5n to 22w: 5n 5s 12s 19s 22w, Length: 305.00
+5n to 23e: 5n 5s 12s 19s 23e, Length: 303.00
+5n to 23w: 5n 2e 6s 13s 20s 23w, Length: 363.60
+5n to 24e: 5n 2e 6s 13s 20s 24e, Length: 365.60
+5n to 24w: 5n 2e 6s 13s 20s 24e 24w, Length: 428.20
+5n to 2e: 5n 2e, Length: 121.20
+5n to 2w: 5n 2e 2w, Length: 181.80
+5n to 3e: 5n 2e 3e, Length: 183.80
+5n to 3w: 5n 2e 3e 3w, Length: 246.40
+5n to 4n: 5n 1w 4s 4n, Length: 248.40
+5n to 4s: 5n 1w 4s, Length: 185.80
+5n to 5s: 5n 5s, Length: 121.20
+5n to 6n: 5n 2e 6s 6n, Length: 242.40
+5n to 6s: 5n 2e 6s, Length: 181.80
+5n to 7n: 5n 2e 6s 10e 7n, Length: 305.00
+5n to 7s: 5n 2e 3e 7s, Length: 246.40
+5n to 8e: 5n 1w 4s 8e, Length: 246.40
+5n to 8w: 5n 5s 8w, Length: 181.80
+5n to 9e: 5n 5s 9e, Length: 181.80
+5n to 9w: 5n 2e 6s 9w, Length: 242.40
+5s to 10e: 5s 9e 10e, Length: 181.80
+5s to 10w: 5s 9e 10e 10w, Length: 242.40
+5s to 11n: 5s 8w 11s 11n, Length: 242.40
+5s to 11s: 5s 8w 11s, Length: 181.80
+5s to 12n: 5s 12s 12n, Length: 181.80
+5s to 12s: 5s 12s, Length: 121.20
+5s to 13n: 5s 12s 16e 13n, Length: 242.40
+5s to 13s: 5s 9e 13s, Length: 181.80
+5s to 14n: 5s 12s 16e 17e 14n, Length: 303.00
+5s to 14s: 5s 9e 10e 14s, Length: 242.40
+5s to 15e: 5s 8w 11s 15e, Length: 242.40
+5s to 15w: 5s 12s 15w, Length: 181.80
+5s to 16e: 5s 12s 16e, Length: 181.80
+5s to 16w: 5s 12s 16e 16w, Length: 242.40
+5s to 17e: 5s 12s 16e 17e, Length: 242.40
+5s to 17w: 5s 12s 16e 17e 17w, Length: 303.00
+5s to 18n: 5s 8w 11s 18s 18n, Length: 307.00
+5s to 18s: 5s 8w 11s 18s, Length: 244.40
+5s to 19n: 5s 12s 19s 19n, Length: 242.40
+5s to 19s: 5s 12s 19s, Length: 181.80
+5s to 1e: 5s 8w 4n 1e, Length: 246.40
+5s to 1w: 5s 5n 1w, Length: 183.80
+5s to 20n: 5s 12s 19s 23e 20n, Length: 303.00
+5s to 20s: 5s 12s 16e 20s, Length: 242.40
+5s to 21n: 5s 12s 19s 23e 24e 21n, Length: 367.60
+5s to 21s: 5s 12s 16e 17e 21s, Length: 305.00
+5s to 22e: 5s 8w 11s 18s 22e, Length: 307.00
+5s to 22w: 5s 12s 19s 22w, Length: 244.40
+5s to 23e: 5s 12s 19s 23e, Length: 242.40
+5s to 23w: 5s 12s 19s 23e 23w, Length: 303.00
+5s to 24e: 5s 12s 19s 23e 24e, Length: 305.00
+5s to 24w: 5s 12s 19s 23e 24e 24w, Length: 367.60
+5s to 2e: 5s 5n 2e, Length: 181.80
+5s to 2w: 5s 9e 6n 2w, Length: 242.40
+5s to 3e: 5s 9e 6n 3e, Length: 244.40
+5s to 3w: 5s 9e 10e 7n 3w, Length: 307.00
+5s to 4n: 5s 8w 4n, Length: 183.80
+5s to 4s: 5s 8w 4n 4s, Length: 246.40
+5s to 5n: 5s 5n, Length: 121.20
+5s to 6n: 5s 9e 6n, Length: 181.80
+5s to 6s: 5s 9e 6n 6s, Length: 242.40
+5s to 7n: 5s 9e 10e 7n, Length: 244.40
+5s to 7s: 5s 9e 10e 7n 7s, Length: 307.00
+5s to 8e: 5s 8w 8e, Length: 181.80
+5s to 8w: 5s 8w, Length: 121.20
+5s to 9e: 5s 9e, Length: 121.20
+5s to 9w: 5s 9e 9w, Length: 181.80
+6n to 10e: 6n 6s 10e, Length: 181.80
+6n to 10w: 6n 3e 7s 10w, Length: 246.40
+6n to 11n: 6n 2w 1w 4s 11s 11n, Length: 367.60
+6n to 11s: 6n 2w 1w 4s 11s, Length: 307.00
+6n to 12n: 6n 2w 5s 12s 12n, Length: 303.00
+6n to 12s: 6n 2w 5s 12s, Length: 242.40
+6n to 13n: 6n 6s 13s 13n, Length: 242.40
+6n to 13s: 6n 6s 13s, Length: 181.80
+6n to 14n: 6n 3e 7s 14s 14n, Length: 307.00
+6n to 14s: 6n 3e 7s 14s, Length: 246.40
+6n to 15e: 6n 2w 1w 4s 11s 15e, Length: 367.60
+6n to 15w: 6n 2w 5s 12s 15w, Length: 303.00
+6n to 16e: 6n 2w 5s 12s 16e, Length: 303.00
+6n to 16w: 6n 6s 13s 16w, Length: 242.40
+6n to 17e: 6n 6s 13s 17e, Length: 242.40
+6n to 17w: 6n 3e 7s 14s 17w, Length: 307.00
+6n to 18n: 6n 2w 1w 4s 11s 18s 18n, Length: 432.20
+6n to 18s: 6n 2w 1w 4s 11s 18s, Length: 369.60
+6n to 19n: 6n 2w 5s 12s 19s 19n, Length: 363.60
+6n to 19s: 6n 2w 5s 12s 19s, Length: 303.00
+6n to 1e: 6n 2w 1w 1e, Length: 246.40
+6n to 1w: 6n 2w 1w, Length: 183.80
+6n to 20n: 6n 6s 13s 20s 20n, Length: 303.00
+6n to 20s: 6n 6s 13s 20s, Length: 242.40
+6n to 21n: 6n 3e 7s 14s 21s 21n, Length: 371.60
+6n to 21s: 6n 3e 7s 14s 21s, Length: 309.00
+6n to 22e: 6n 2w 1w 4s 11s 18s 22e, Length: 432.20
+6n to 22w: 6n 2w 5s 12s 19s 22w, Length: 365.60
+6n to 23e: 6n 2w 5s 12s 19s 23e, Length: 363.60
+6n to 23w: 6n 6s 13s 20s 23w, Length: 303.00
+6n to 24e: 6n 6s 13s 20s 24e, Length: 305.00
+6n to 24w: 6n 3e 7s 14s 21s 24w, Length: 371.60
+6n to 2e: 6n 2w 2e, Length: 181.80
+6n to 2w: 6n 2w, Length: 121.20
+6n to 3e: 6n 3e, Length: 123.20
+6n to 3w: 6n 3e 3w, Length: 185.80
+6n to 4n: 6n 2w 1w 4s 4n, Length: 309.00
+6n to 4s: 6n 2w 1w 4s, Length: 246.40
+6n to 5n: 6n 2w 5s 5n, Length: 242.40
+6n to 5s: 6n 2w 5s, Length: 181.80
+6n to 6s: 6n 6s, Length: 121.20
+6n to 7n: 6n 3e 7s 7n, Length: 248.40
+6n to 7s: 6n 3e 7s, Length: 185.80
+6n to 8e: 6n 2w 1w 4s 8e, Length: 307.00
+6n to 8w: 6n 2w 5s 8w, Length: 242.40
+6n to 9e: 6n 2w 5s 9e, Length: 242.40
+6n to 9w: 6n 6s 9w, Length: 181.80
+6s to 10e: 6s 10e, Length: 121.20
+6s to 10w: 6s 10e 10w, Length: 181.80
+6s to 11n: 6s 9w 8w 11s 11n, Length: 303.00
+6s to 11s: 6s 9w 8w 11s, Length: 242.40
+6s to 12n: 6s 9w 12s 12n, Length: 242.40
+6s to 12s: 6s 9w 12s, Length: 181.80
+6s to 13n: 6s 13s 13n, Length: 181.80
+6s to 13s: 6s 13s, Length: 121.20
+6s to 14n: 6s 13s 17e 14n, Length: 242.40
+6s to 14s: 6s 10e 14s, Length: 181.80
+6s to 15e: 6s 9w 8w 11s 15e, Length: 303.00
+6s to 15w: 6s 9w 12s 15w, Length: 242.40
+6s to 16e: 6s 9w 12s 16e, Length: 242.40
+6s to 16w: 6s 13s 16w, Length: 181.80
+6s to 17e: 6s 13s 17e, Length: 181.80
+6s to 17w: 6s 13s 17e 17w, Length: 242.40
+6s to 18n: 6s 9w 8w 11s 18s 18n, Length: 367.60
+6s to 18s: 6s 9w 8w 11s 18s, Length: 305.00
+6s to 19n: 6s 9w 12s 19s 19n, Length: 303.00
+6s to 19s: 6s 9w 12s 19s, Length: 242.40
+6s to 1e: 6s 9w 5n 1w 1e, Length: 307.00
+6s to 1w: 6s 9w 5n 1w, Length: 244.40
+6s to 20n: 6s 13s 20s 20n, Length: 242.40
+6s to 20s: 6s 13s 20s, Length: 181.80
+6s to 21n: 6s 13s 20s 24e 21n, Length: 307.00
+6s to 21s: 6s 13s 17e 21s, Length: 244.40
+6s to 22e: 6s 9w 8w 11s 18s 22e, Length: 367.60
+6s to 22w: 6s 9w 12s 19s 22w, Length: 305.00
+6s to 23e: 6s 9w 12s 19s 23e, Length: 303.00
+6s to 23w: 6s 13s 20s 23w, Length: 242.40
+6s to 24e: 6s 13s 20s 24e, Length: 244.40
+6s to 24w: 6s 13s 20s 24e 24w, Length: 307.00
+6s to 2e: 6s 9w 5n 2e, Length: 242.40
+6s to 2w: 6s 6n 2w, Length: 181.80
+6s to 3e: 6s 6n 3e, Length: 183.80
+6s to 3w: 6s 10e 7n 3w, Length: 246.40
+6s to 4n: 6s 9w 8w 4n, Length: 244.40
+6s to 4s: 6s 9w 5n 1w 4s, Length: 307.00
+6s to 5n: 6s 9w 5n, Length: 181.80
+6s to 5s: 6s 9w 5n 5s, Length: 242.40
+6s to 6n: 6s 6n, Length: 121.20
+6s to 7n: 6s 10e 7n, Length: 183.80
+6s to 7s: 6s 10e 7n 7s, Length: 246.40
+6s to 8e: 6s 9w 8w 8e, Length: 242.40
+6s to 8w: 6s 9w 8w, Length: 181.80
+6s to 9e: 6s 9w 9e, Length: 181.80
+6s to 9w: 6s 9w, Length: 121.20
+7n to 10e: 7n 3w 6s 10e, Length: 246.40
+7n to 10w: 7n 7s 10w, Length: 185.80
+7n to 11n: 7n 3w 2w 1w 4s 11s 11n, Length: 432.20
+7n to 11s: 7n 3w 2w 1w 4s 11s, Length: 371.60
+7n to 12n: 7n 3w 2w 5s 12s 12n, Length: 367.60
+7n to 12s: 7n 3w 2w 5s 12s, Length: 307.00
+7n to 13n: 7n 3w 6s 13s 13n, Length: 307.00
+7n to 13s: 7n 3w 6s 13s, Length: 246.40
+7n to 14n: 7n 7s 14s 14n, Length: 246.40
+7n to 14s: 7n 7s 14s, Length: 185.80
+7n to 15e: 7n 3w 2w 1w 4s 11s 15e, Length: 432.20
+7n to 15w: 7n 3w 2w 5s 12s 15w, Length: 367.60
+7n to 16e: 7n 3w 2w 5s 12s 16e, Length: 367.60
+7n to 16w: 7n 3w 6s 13s 16w, Length: 307.00
+7n to 17e: 7n 3w 6s 13s 17e, Length: 307.00
+7n to 17w: 7n 7s 14s 17w, Length: 246.40
+7n to 18n: 7n 3w 2w 1w 4s 11s 18s 18n, Length: 496.80
+7n to 18s: 7n 3w 2w 1w 4s 11s 18s, Length: 434.20
+7n to 19n: 7n 3w 2w 5s 12s 19s 19n, Length: 428.20
+7n to 19s: 7n 3w 2w 5s 12s 19s, Length: 367.60
+7n to 1e: 7n 3w 2w 1w 1e, Length: 311.00
+7n to 1w: 7n 3w 2w 1w, Length: 248.40
+7n to 20n: 7n 3w 6s 13s 20s 20n, Length: 367.60
+7n to 20s: 7n 3w 6s 13s 20s, Length: 307.00
+7n to 21n: 7n 7s 14s 21s 21n, Length: 311.00
+7n to 21s: 7n 7s 14s 21s, Length: 248.40
+7n to 22e: 7n 3w 2w 1w 4s 11s 18s 22e, Length: 496.80
+7n to 22w: 7n 3w 2w 5s 12s 19s 22w, Length: 430.20
+7n to 23e: 7n 3w 2w 5s 12s 19s 23e, Length: 428.20
+7n to 23w: 7n 3w 6s 13s 20s 23w, Length: 367.60
+7n to 24e: 7n 3w 6s 13s 20s 24e, Length: 369.60
+7n to 24w: 7n 7s 14s 21s 24w, Length: 311.00
+7n to 2e: 7n 3w 2w 2e, Length: 246.40
+7n to 2w: 7n 3w 2w, Length: 185.80
+7n to 3e: 7n 3w 3e, Length: 187.80
+7n to 3w: 7n 3w, Length: 125.20
+7n to 4n: 7n 3w 2w 1w 4s 4n, Length: 373.60
+7n to 4s: 7n 3w 2w 1w 4s, Length: 311.00
+7n to 5n: 7n 3w 2w 5s 5n, Length: 307.00
+7n to 5s: 7n 3w 2w 5s, Length: 246.40
+7n to 6n: 7n 3w 6s 6n, Length: 246.40
+7n to 6s: 7n 3w 6s, Length: 185.80
+7n to 7s: 7n 7s, Length: 125.20
+7n to 8e: 7n 3w 2w 1w 4s 8e, Length: 371.60
+7n to 8w: 7n 3w 2w 5s 8w, Length: 307.00
+7n to 9e: 7n 3w 2w 5s 9e, Length: 307.00
+7n to 9w: 7n 3w 6s 9w, Length: 246.40
+7s to 10e: 7s 10w 10e, Length: 183.80
+7s to 10w: 7s 10w, Length: 123.20
+7s to 11n: 7s 10w 9w 8w 11s 11n, Length: 365.60
+7s to 11s: 7s 10w 9w 8w 11s, Length: 305.00
+7s to 12n: 7s 10w 9w 12s 12n, Length: 305.00
+7s to 12s: 7s 10w 9w 12s, Length: 244.40
+7s to 13n: 7s 10w 13s 13n, Length: 244.40
+7s to 13s: 7s 10w 13s, Length: 183.80
+7s to 14n: 7s 14s 14n, Length: 183.80
+7s to 14s: 7s 14s, Length: 123.20
+7s to 15e: 7s 10w 9w 8w 11s 15e, Length: 365.60
+7s to 15w: 7s 10w 9w 12s 15w, Length: 305.00
+7s to 16e: 7s 10w 9w 12s 16e, Length: 305.00
+7s to 16w: 7s 10w 13s 16w, Length: 244.40
+7s to 17e: 7s 10w 13s 17e, Length: 244.40
+7s to 17w: 7s 14s 17w, Length: 183.80
+7s to 18n: 7s 10w 9w 8w 11s 18s 18n, Length: 430.20
+7s to 18s: 7s 10w 9w 8w 11s 18s, Length: 367.60
+7s to 19n: 7s 10w 9w 12s 19s 19n, Length: 365.60
+7s to 19s: 7s 10w 9w 12s 19s, Length: 305.00
+7s to 1e: 7s 10w 6n 2w 1w 1e, Length: 369.60
+7s to 1w: 7s 10w 6n 2w 1w, Length: 307.00
+7s to 20n: 7s 10w 13s 20s 20n, Length: 305.00
+7s to 20s: 7s 10w 13s 20s, Length: 244.40
+7s to 21n: 7s 14s 21s 21n, Length: 248.40
+7s to 21s: 7s 14s 21s, Length: 185.80
+7s to 22e: 7s 10w 9w 8w 11s 18s 22e, Length: 430.20
+7s to 22w: 7s 10w 9w 12s 19s 22w, Length: 367.60
+7s to 23e: 7s 10w 9w 12s 19s 23e, Length: 365.60
+7s to 23w: 7s 10w 13s 20s 23w, Length: 305.00
+7s to 24e: 7s 10w 13s 20s 24e, Length: 307.00
+7s to 24w: 7s 14s 21s 24w, Length: 248.40
+7s to 2e: 7s 10w 6n 2w 2e, Length: 305.00
+7s to 2w: 7s 10w 6n 2w, Length: 244.40
+7s to 3e: 7s 10w 6n 3e, Length: 246.40
+7s to 3w: 7s 7n 3w, Length: 187.80
+7s to 4n: 7s 10w 9w 8w 4n, Length: 307.00
+7s to 4s: 7s 10w 6n 2w 1w 4s, Length: 369.60
+7s to 5n: 7s 10w 9w 5n, Length: 244.40
+7s to 5s: 7s 10w 6n 2w 5s, Length: 305.00
+7s to 6n: 7s 10w 6n, Length: 183.80
+7s to 6s: 7s 10w 6n 6s, Length: 244.40
+7s to 7n: 7s 7n, Length: 125.20
+7s to 8e: 7s 10w 9w 8w 8e, Length: 305.00
+7s to 8w: 7s 10w 9w 8w, Length: 244.40
+7s to 9e: 7s 10w 9w 9e, Length: 244.40
+7s to 9w: 7s 10w 9w, Length: 183.80
+8e to 10e: 8e 9e 10e, Length: 181.80
+8e to 10w: 8e 9e 10e 10w, Length: 242.40
+8e to 11n: 8e 12s 15w 11n, Length: 242.40
+8e to 11s: 8e 8w 11s, Length: 181.80
+8e to 12n: 8e 12s 12n, Length: 181.80
+8e to 12s: 8e 12s, Length: 121.20
+8e to 13n: 8e 12s 16e 13n, Length: 242.40
+8e to 13s: 8e 9e 13s, Length: 181.80
+8e to 14n: 8e 12s 16e 17e 14n, Length: 303.00
+8e to 14s: 8e 9e 10e 14s, Length: 242.40
+8e to 15e: 8e 12s 15w 15e, Length: 242.40
+8e to 15w: 8e 12s 15w, Length: 181.80
+8e to 16e: 8e 12s 16e, Length: 181.80
+8e to 16w: 8e 12s 16e 16w, Length: 242.40
+8e to 17e: 8e 12s 16e 17e, Length: 242.40
+8e to 17w: 8e 12s 16e 17e 17w, Length: 303.00
+8e to 18n: 8e 12s 15w 18s 18n, Length: 307.00
+8e to 18s: 8e 12s 15w 18s, Length: 244.40
+8e to 19n: 8e 12s 19s 19n, Length: 242.40
+8e to 19s: 8e 12s 19s, Length: 181.80
+8e to 1e: 8e 5n 1w 1e, Length: 246.40
+8e to 1w: 8e 5n 1w, Length: 183.80
+8e to 20n: 8e 12s 19s 23e 20n, Length: 303.00
+8e to 20s: 8e 12s 16e 20s, Length: 242.40
+8e to 21n: 8e 12s 19s 23e 24e 21n, Length: 367.60
+8e to 21s: 8e 12s 16e 17e 21s, Length: 305.00
+8e to 22e: 8e 12s 15w 18s 22e, Length: 307.00
+8e to 22w: 8e 12s 19s 22w, Length: 244.40
+8e to 23e: 8e 12s 19s 23e, Length: 242.40
+8e to 23w: 8e 12s 19s 23e 23w, Length: 303.00
+8e to 24e: 8e 12s 19s 23e 24e, Length: 305.00
+8e to 24w: 8e 12s 19s 23e 24e 24w, Length: 367.60
+8e to 2e: 8e 5n 2e, Length: 181.80
+8e to 2w: 8e 9e 6n 2w, Length: 242.40
+8e to 3e: 8e 9e 6n 3e, Length: 244.40
+8e to 3w: 8e 9e 10e 7n 3w, Length: 307.00
+8e to 4n: 8e 8w 4n, Length: 183.80
+8e to 4s: 8e 5n 1w 4s, Length: 246.40
+8e to 5n: 8e 5n, Length: 121.20
+8e to 5s: 8e 5n 5s, Length: 181.80
+8e to 6n: 8e 9e 6n, Length: 181.80
+8e to 6s: 8e 9e 6n 6s, Length: 242.40
+8e to 7n: 8e 9e 10e 7n, Length: 244.40
+8e to 7s: 8e 9e 10e 7n 7s, Length: 307.00
+8e to 8w: 8e 8w, Length: 121.20
+8e to 9e: 8e 9e, Length: 121.20
+8e to 9w: 8e 9e 9w, Length: 181.80
+8w to 10e: 8w 8e 9e 10e, Length: 242.40
+8w to 10w: 8w 8e 9e 10e 10w, Length: 303.00
+8w to 11n: 8w 11s 11n, Length: 181.80
+8w to 11s: 8w 11s, Length: 121.20
+8w to 12n: 8w 11s 15e 12n, Length: 242.40
+8w to 12s: 8w 8e 12s, Length: 181.80
+8w to 13n: 8w 11s 15e 16e 13n, Length: 303.00
+8w to 13s: 8w 8e 9e 13s, Length: 242.40
+8w to 14n: 8w 11s 15e 16e 17e 14n, Length: 363.60
+8w to 14s: 8w 8e 9e 10e 14s, Length: 303.00
+8w to 15e: 8w 11s 15e, Length: 181.80
+8w to 15w: 8w 11s 15e 15w, Length: 242.40
+8w to 16e: 8w 11s 15e 16e, Length: 242.40
+8w to 16w: 8w 11s 15e 16e 16w, Length: 303.00
+8w to 17e: 8w 11s 15e 16e 17e, Length: 303.00
+8w to 17w: 8w 11s 15e 16e 17e 17w, Length: 363.60
+8w to 18n: 8w 11s 18s 18n, Length: 246.40
+8w to 18s: 8w 11s 18s, Length: 183.80
+8w to 19n: 8w 11s 18s 22e 19n, Length: 307.00
+8w to 19s: 8w 11s 15e 19s, Length: 242.40
+8w to 1e: 8w 4n 1e, Length: 185.80
+8w to 1w: 8w 4n 1e 1w, Length: 248.40
+8w to 20n: 8w 11s 18s 22e 23e 20n, Length: 367.60
+8w to 20s: 8w 11s 15e 16e 20s, Length: 303.00
+8w to 21n: 8w 11s 18s 22e 23e 24e 21n, Length: 432.20
+8w to 21s: 8w 11s 15e 16e 17e 21s, Length: 365.60
+8w to 22e: 8w 11s 18s 22e, Length: 246.40
+8w to 22w: 8w 11s 18s 22e 22w, Length: 309.00
+8w to 23e: 8w 11s 18s 22e 23e, Length: 307.00
+8w to 23w: 8w 11s 18s 22e 23e 23w, Length: 367.60
+8w to 24e: 8w 11s 18s 22e 23e 24e, Length: 369.60
+8w to 24w: 8w 11s 18s 22e 23e 24e 24w, Length: 432.20
+8w to 2e: 8w 4n 1e 2e, Length: 246.40
+8w to 2w: 8w 4n 1e 2e 2w, Length: 307.00
+8w to 3e: 8w 4n 1e 2e 3e, Length: 309.00
+8w to 3w: 8w 4n 1e 2e 3e 3w, Length: 371.60
+8w to 4n: 8w 4n, Length: 123.20
+8w to 4s: 8w 4n 4s, Length: 185.80
+8w to 5n: 8w 8e 5n, Length: 181.80
+8w to 5s: 8w 4n 1e 5s, Length: 246.40
+8w to 6n: 8w 8e 9e 6n, Length: 242.40
+8w to 6s: 8w 4n 1e 2e 6s, Length: 307.00
+8w to 7n: 8w 8e 9e 10e 7n, Length: 305.00
+8w to 7s: 8w 4n 1e 2e 3e 7s, Length: 371.60
+8w to 8e: 8w 8e, Length: 121.20
+8w to 9e: 8w 8e 9e, Length: 181.80
+8w to 9w: 8w 8e 9e 9w, Length: 242.40
+9e to 10e: 9e 10e, Length: 121.20
+9e to 10w: 9e 10e 10w, Length: 181.80
+9e to 11n: 9e 13s 16w 15w 11n, Length: 303.00
+9e to 11s: 9e 9w 8w 11s, Length: 242.40
+9e to 12n: 9e 13s 16w 12n, Length: 242.40
+9e to 12s: 9e 9w 12s, Length: 181.80
+9e to 13n: 9e 13s 13n, Length: 181.80
+9e to 13s: 9e 13s, Length: 121.20
+9e to 14n: 9e 13s 17e 14n, Length: 242.40
+9e to 14s: 9e 10e 14s, Length: 181.80
+9e to 15e: 9e 13s 16w 15w 15e, Length: 303.00
+9e to 15w: 9e 13s 16w 15w, Length: 242.40
+9e to 16e: 9e 13s 16w 16e, Length: 242.40
+9e to 16w: 9e 13s 16w, Length: 181.80
+9e to 17e: 9e 13s 17e, Length: 181.80
+9e to 17w: 9e 13s 17e 17w, Length: 242.40
+9e to 18n: 9e 13s 16w 15w 18s 18n, Length: 367.60
+9e to 18s: 9e 13s 16w 15w 18s, Length: 305.00
+9e to 19n: 9e 13s 16w 19s 19n, Length: 303.00
+9e to 19s: 9e 13s 16w 19s, Length: 242.40
+9e to 1e: 9e 6n 2w 1w 1e, Length: 307.00
+9e to 1w: 9e 6n 2w 1w, Length: 244.40
+9e to 20n: 9e 13s 20s 20n, Length: 242.40
+9e to 20s: 9e 13s 20s, Length: 181.80
+9e to 21n: 9e 13s 20s 24e 21n, Length: 307.00
+9e to 21s: 9e 13s 17e 21s, Length: 244.40
+9e to 22e: 9e 13s 16w 15w 18s 22e, Length: 367.60
+9e to 22w: 9e 13s 16w 19s 22w, Length: 305.00
+9e to 23e: 9e 13s 16w 19s 23e, Length: 303.00
+9e to 23w: 9e 13s 20s 23w, Length: 242.40
+9e to 24e: 9e 13s 20s 24e, Length: 244.40
+9e to 24w: 9e 13s 20s 24e 24w, Length: 307.00
+9e to 2e: 9e 6n 2w 2e, Length: 242.40
+9e to 2w: 9e 6n 2w, Length: 181.80
+9e to 3e: 9e 6n 3e, Length: 183.80
+9e to 3w: 9e 10e 7n 3w, Length: 246.40
+9e to 4n: 9e 9w 8w 4n, Length: 244.40
+9e to 4s: 9e 6n 2w 1w 4s, Length: 307.00
+9e to 5n: 9e 9w 5n, Length: 181.80
+9e to 5s: 9e 6n 2w 5s, Length: 242.40
+9e to 6n: 9e 6n, Length: 121.20
+9e to 6s: 9e 6n 6s, Length: 181.80
+9e to 7n: 9e 10e 7n, Length: 183.80
+9e to 7s: 9e 10e 7n 7s, Length: 246.40
+9e to 8e: 9e 9w 8w 8e, Length: 242.40
+9e to 8w: 9e 9w 8w, Length: 181.80
+9e to 9w: 9e 9w, Length: 121.20
+9w to 10e: 9w 9e 10e, Length: 181.80
+9w to 10w: 9w 9e 10e 10w, Length: 242.40
+9w to 11n: 9w 8w 11s 11n, Length: 242.40
+9w to 11s: 9w 8w 11s, Length: 181.80
+9w to 12n: 9w 12s 12n, Length: 181.80
+9w to 12s: 9w 12s, Length: 121.20
+9w to 13n: 9w 12s 16e 13n, Length: 242.40
+9w to 13s: 9w 9e 13s, Length: 181.80
+9w to 14n: 9w 12s 16e 17e 14n, Length: 303.00
+9w to 14s: 9w 9e 10e 14s, Length: 242.40
+9w to 15e: 9w 8w 11s 15e, Length: 242.40
+9w to 15w: 9w 12s 15w, Length: 181.80
+9w to 16e: 9w 12s 16e, Length: 181.80
+9w to 16w: 9w 12s 16e 16w, Length: 242.40
+9w to 17e: 9w 12s 16e 17e, Length: 242.40
+9w to 17w: 9w 12s 16e 17e 17w, Length: 303.00
+9w to 18n: 9w 8w 11s 18s 18n, Length: 307.00
+9w to 18s: 9w 8w 11s 18s, Length: 244.40
+9w to 19n: 9w 12s 19s 19n, Length: 242.40
+9w to 19s: 9w 12s 19s, Length: 181.80
+9w to 1e: 9w 5n 1w 1e, Length: 246.40
+9w to 1w: 9w 5n 1w, Length: 183.80
+9w to 20n: 9w 12s 19s 23e 20n, Length: 303.00
+9w to 20s: 9w 12s 16e 20s, Length: 242.40
+9w to 21n: 9w 12s 19s 23e 24e 21n, Length: 367.60
+9w to 21s: 9w 12s 16e 17e 21s, Length: 305.00
+9w to 22e: 9w 8w 11s 18s 22e, Length: 307.00
+9w to 22w: 9w 12s 19s 22w, Length: 244.40
+9w to 23e: 9w 12s 19s 23e, Length: 242.40
+9w to 23w: 9w 12s 19s 23e 23w, Length: 303.00
+9w to 24e: 9w 12s 19s 23e 24e, Length: 305.00
+9w to 24w: 9w 12s 19s 23e 24e 24w, Length: 367.60
+9w to 2e: 9w 5n 2e, Length: 181.80
+9w to 2w: 9w 5n 2e 2w, Length: 242.40
+9w to 3e: 9w 5n 2e 3e, Length: 244.40
+9w to 3w: 9w 5n 2e 3e 3w, Length: 307.00
+9w to 4n: 9w 8w 4n, Length: 183.80
+9w to 4s: 9w 5n 1w 4s, Length: 246.40
+9w to 5n: 9w 5n, Length: 121.20
+9w to 5s: 9w 5n 5s, Length: 181.80
+9w to 6n: 9w 9e 6n, Length: 181.80
+9w to 6s: 9w 5n 2e 6s, Length: 242.40
+9w to 7n: 9w 9e 10e 7n, Length: 244.40
+9w to 7s: 9w 5n 2e 3e 7s, Length: 307.00
+9w to 8e: 9w 8w 8e, Length: 181.80
+9w to 8w: 9w 8w, Length: 121.20
+9w to 9e: 9w 9e, Length: 121.20

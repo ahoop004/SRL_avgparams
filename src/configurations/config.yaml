@@ -1,0 +1,47 @@
+wandb:
+  project_name: "sumo-rl"  
+  entity: "researchlab-yr404"
+  name: "sumo-rl-test"
+  # group: "3x3-5"
+  group: "Marl-test"
+
+# Training settings
+training_settings:
+  episodes: 15000             
+  # experiment_path: "Experiments/3x3_6/"
+  # sumoconfig: "Nets/3x3.sumocfg"    
+  experiment_path: 'data/balt/'
+  sumoconfig: "Nets/osm.sumocfg"
+  savepath: "models/" 
+  loadpath: "models/"                        
+  initial_life: .10                    
+  penalty: -0.2 
+  seed: 6
+                   
+#person 
+person_settings:
+
+
+#experiment values
+env:
+  num_of_agents: 8   #number of community vehicles                  
+  num_of_people: 5           # number of passengers per episode            
+  types_of_passengers: 2
+  num_agents: 2           
+
+# Agent hyperparameters
+agent_hyperparameters:
+  learning_rate: 0.00001
+  gamma: 0.999            
+  epsilon_decay: 0.9996
+  batch_size: 128
+  memory_size: 50000
+  epsilon_max: 1.0
+  epsilon_min: 0.05                   
+  penalty: -0.2  
+
+  # Priority Experience Replay
+per_hyperparameters:
+  alpha: 0.06
+  beta: 0.04
+  priority_epsilon: .00001

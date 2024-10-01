@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-09 10:52:22 by Eclipse SUMO netedit Version 1.20.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="bus" vClass="bus"/>
+    <vType id="passenger" vClass="passenger"/>
+    <vType id="taxi:A" vClass="taxi" personCapacity="8">
+        <param key="device.taxi.stands-rerouter" value="rr0"/>
+        <param key="has.rerouting.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+    </vType>
+    <vType id="taxi:B" vClass="taxi" personCapacity="8">
+        <param key="device.taxi.stands-rerouter" value="rr1"/>
+        <param key="has.rerouting.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+    </vType>
+    <!-- Routes -->
+    <route id="r_0" edges="-49664167#6 49664167#5"/>
+    <route id="r_1" edges="138388359#16 829470071#1 829470071#2 829470071#5 829470071#6 948331274#1 948331274#5 948331274#8 390061613#1 390061613#3 390061613#8 1087560658 75926225#0 75926225#3 -75926225#4 -75926225#2 -197879536#2 -390061613#9 -390061613#5 -390061613#1 -948331274#9 -948331274#6 -948331274#2 -829470071#6 -829470071#5 -829470071#2 -829470071#1 -138388359#16" color="green" repeat="30" cycleTime="300.00"/>
+    <route id="r_2" edges="192469469#3 -192469469#3"/>
+    <route id="r_3" edges="791811233#6 791811233#8 791811233#10 791811233#13 791811233#15 791811233#17 791811233#19 791811233#20 791811233#22 791811233#25 791811233#27 75926225#0 -75926212#3 -275806335#1 275806336 192469465#0 -6006943#3 791811231#27 275806336 192469465#0 707194199#1 -49664167#9 791811231#26 6006943#0 707194199#1 707194198#0 707194200#0 791811231#25 -49664167#6 -791811233#26 -791811233#24 390061635#5 791811231#23 707194200#3 -791811233#24 -791811233#21 521985670#6 791811231#22 390061635#9 706987134 706987132 711637734#0 711637731#0 791811231#19 791811231#21 -521985670#10 -791811233#19 -791811233#18 -791811233#16 6008952#3 791811231#17 711637731#2 -791811233#16 -791811233#14 6023599#3 791811231#15 6008952#4 711654871 711654873#1 837239920#6 791811231#12 6023599#4 711654873#1 711654873#3 -829470070#4 791811231#10 791811231#12 6023599#4 711654873#1 711654873#3 -192469472#3 6007194#7 791811231#8 829470070#4 -192469472#3 6007194#7 6007194#8" repeat="10" cycleTime="300.00"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <vehicle id="v_0" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
+        <param key="type" value="0"/>
+    </vehicle>
+    <vehicle id="v_1" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
+        <param key="type" value="1"/>
+    </vehicle>
+    <vehicle id="v_2" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
+        <param key="type" value="0"/>
+    </vehicle>
+    <vehicle id="v_3" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
+        <param key="type" value="1"/>
+    </vehicle>
+    <vehicle id="v_4" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
+        <param key="type" value="0"/>
+    </vehicle>
+    <vehicle id="v_5" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
+        <param key="type" value="1"/>
+    </vehicle>
+    <vehicle id="v_6" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
+        <param key="type" value="0"/>
+    </vehicle>
+    <vehicle id="v_7" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
+        <param key="type" value="1"/>
+    </vehicle>
+    <person id="p_0" depart="0.00">
+        <param key="type" value="1"/>
+        <ride from="-49664167#4" to="390061613#8" lines="taxi"/>
+        <walk busStop="bs_10"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person>
+    <!-- <person id="p_a" depart="0.00">
+        <param key="type" value="0"/>
+        <ride from="-521985670#5" to="948331274#8" lines="taxi"/>
+        <walk busStop="bs_8"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    <person id="p_1" depart="0.00">
+        <param key="type" value="0"/>
+        <ride from="-192469472#3" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person>
+    <!-- <person id="p_1" depart="0.00">
+        <param key="type" value="0"/>
+        <ride from="791811233#20" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    <!-- <person id="p_2" depart="0.00">
+        <param key="type" value="1"/>
+        <ride from="791811233#20" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    <!-- <person id="p_3" depart="8.00">
+        <param key="type" value="0"/>
+        <ride from="791811233#20" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    <!-- <person id="p_4" depart="10.00">
+        <param key="type" value="0"/>
+        <ride from="791811233#20" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    <!-- <person id="p_5" depart="12.00">
+        <param key="type" value="1"/>
+        <ride from="791811233#20" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    <!-- <person id="p_6" depart="14.00">
+        <param key="type" value="0"/>
+        <ride from="791811233#20" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person> -->
+    
+    <flow id="f_0" type="bus" begin="0.00" route="r_3" end="3600.00" vehsPerHour="3"/>
+    <flow id="f_1" type="bus" begin="0.00" line="1" route="r_1" end="3600.00" vehsPerHour="4">
+        <stop busStop="bs_0" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_2" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_3" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_1" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_4" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_6" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_5" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_8" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_7" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_9" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_10" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_12" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_13" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_14" duration="60.00" until="0.00" line="1"/>
+        <stop busStop="bs_17" duration="60.00" until="0.00" line="1"/>
+    </flow>
+</routes>
