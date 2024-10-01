@@ -53,6 +53,9 @@ def main_training_loop(config):
                 next_states, rewards, dones, infos = env.step(actions)
                 steps += 1
 
+            
+            targets = []
+
 
             for i in dispatched_indices:
 
@@ -63,7 +66,11 @@ def main_training_loop(config):
                     if len(agents[i].memory) > agents[i].batch_size:
 
                         agents[i].replay(agents[i].batch_size)
-                        agents[i].hard_update()
+
+                        for j in dispatched_indices:
+                            params = agents[j].policy_net.state_dict()
+                            targets.append(params)
+                        agents[i].hard_update(targets)
                     # states[i] = next_states[i]
                     
                     states[i] = next_states[i]

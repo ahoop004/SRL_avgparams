@@ -9,7 +9,7 @@ from ..memory_buffers.permem import PrioritizedExperienceReplayBuffer, Experienc
 from utils.utils import Utils
 # config = Utils.load_yaml_config('/home/ahoope5/Desktop/SUMORL/SUMO-Routing-RL/src/configurations/config.yaml')
 
-
+import copy
 
 class DQN(nn.Module):
     """
@@ -235,13 +235,18 @@ class PERAgent:
         action = self.exploration_strategy.choose_action(state)
         return action
     
-    def hard_update(self):
+    def hard_update(self,state_dicts):
         """
         Perform a hard update of the target network.
         """
-    
-        policy_net_state_dict = self.policy_net.state_dict()
-        self.target_net.load_state_dict(policy_net_state_dict)
+        n = len(state_dicts)
+        averaged_state_dict = copy.deepcopy(state_dicts[0])
+        for key in averaged_state_dict.keys():
+            for i in range(1,n):
+                averaged_state_dict[key] += state_dicts[i][key]
+        averaged_state_dict[key] /= n
+
+        self.target_net.load_state_dict(averaged_state_dict)
         self.target_net.eval()
 
 
