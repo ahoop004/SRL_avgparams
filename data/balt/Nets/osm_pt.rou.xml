@@ -24,9 +24,9 @@
     <route id="r_3" edges="791811233#6 791811233#8 791811233#10 791811233#13 791811233#15 791811233#17 791811233#19 791811233#20 791811233#22 791811233#25 791811233#27 75926225#0 -75926212#3 -275806335#1 275806336 192469465#0 -6006943#3 791811231#27 275806336 192469465#0 707194199#1 -49664167#9 791811231#26 6006943#0 707194199#1 707194198#0 707194200#0 791811231#25 -49664167#6 -791811233#26 -791811233#24 390061635#5 791811231#23 707194200#3 -791811233#24 -791811233#21 521985670#6 791811231#22 390061635#9 706987134 706987132 711637734#0 711637731#0 791811231#19 791811231#21 -521985670#10 -791811233#19 -791811233#18 -791811233#16 6008952#3 791811231#17 711637731#2 -791811233#16 -791811233#14 6023599#3 791811231#15 6008952#4 711654871 711654873#1 837239920#6 791811231#12 6023599#4 711654873#1 711654873#3 -829470070#4 791811231#10 791811231#12 6023599#4 711654873#1 711654873#3 -192469472#3 6007194#7 791811231#8 829470070#4 -192469472#3 6007194#7 6007194#8" repeat="10" cycleTime="300.00"/>
     <!-- Vehicles, persons and containers (sorted by depart) -->
     <vehicle id="v_0" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
-        <param key="type" value="0"/>
+        <param key="type" value="1"/>
     </vehicle>
-    <vehicle id="v_1" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
+    <!-- <vehicle id="v_1" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
         <param key="type" value="1"/>
     </vehicle>
     <vehicle id="v_2" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
@@ -34,40 +34,40 @@
     </vehicle>
     <vehicle id="v_3" type="taxi:A" depart="0.00" departPos="free" color="blue" line="taxi:A" route="r_0">
         <param key="type" value="1"/>
-    </vehicle>
+    </vehicle> -->
     <vehicle id="v_4" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
         <param key="type" value="0"/>
     </vehicle>
-    <vehicle id="v_5" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
+    <!-- <vehicle id="v_5" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
         <param key="type" value="1"/>
     </vehicle>
     <vehicle id="v_6" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
         <param key="type" value="0"/>
     </vehicle>
     <vehicle id="v_7" type="taxi:B" depart="0.00" departPos="free" color="magenta" line="taxi:B" route="r_2">
-        <param key="type" value="1"/>
-    </vehicle>
+        <param key="type" value="1"/> 
+    </vehicle>-->
     <person id="p_0" depart="0.00">
         <param key="type" value="1"/>
-        <ride from="-49664167#4" to="390061613#8" lines="taxi"/>
-        <walk busStop="bs_10"/>
-        <ride busStop="bs_13" lines="1"/>
-        <ride to="75926211#0" lines="taxi"/>
-    </person>
-    <!-- <person id="p_a" depart="0.00">
-        <param key="type" value="0"/>
         <ride from="-521985670#5" to="948331274#8" lines="taxi"/>
         <walk busStop="bs_8"/>
         <ride busStop="bs_13" lines="1"/>
         <ride to="75926211#0" lines="taxi"/>
-    </person> -->
-    <person id="p_1" depart="0.00">
+    </person>
+    <person id="p_a" depart="0.00">
+        <param key="type" value="0"/>
+        <ride from="6007194#7" to="138388359#16" lines="taxi"/>
+        <walk busStop="bs_0"/>
+        <ride busStop="bs_13" lines="1"/>
+        <ride to="75926211#0" lines="taxi"/>
+    </person>
+    <!-- <person id="p_1" depart="0.00">
         <param key="type" value="0"/>
         <ride from="-192469472#3" to="138388359#16" lines="taxi"/>
         <walk busStop="bs_0"/>
         <ride busStop="bs_13" lines="1"/>
         <ride to="75926211#0" lines="taxi"/>
-    </person>
+    </person> -->
     <!-- <person id="p_1" depart="0.00">
         <param key="type" value="0"/>
         <ride from="791811233#20" to="138388359#16" lines="taxi"/>

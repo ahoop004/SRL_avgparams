@@ -24,7 +24,7 @@ class Env():
         self.config = config  
         self.path = config['training_settings']['experiment_path']
         self.sumo_config_path = self.path + config['training_settings']['sumoconfig']
-        self.num_of_agents = 8
+        self.num_of_agents = 2
 
         self.penalty = config['agent_hyperparameters']['penalty']
         self.start_life = self.config['training_settings']['initial_life']
@@ -228,9 +228,6 @@ class Env():
             choice = self.direction_choices[actions[i]]
 
 
-
-            
-
             # Handle vehicle termination or invalid choices
             if (vehicle.life <= 0) or (choice not in choices_keys):
 
@@ -302,7 +299,7 @@ class Env():
             vehicle.distance_checks()
 
             if vehicle.fin:
-                vehicle.reward += 0.99 + self.life - (vehicle.distance_traveled() * 0.001)
+                vehicle.reward += 1 + self.life - (vehicle.agent_step * 0.1)
                 # print("Successful dropoff")
 
             # Update the lists with the current vehicle's values
@@ -343,15 +340,6 @@ class Env():
         self.epsilon_hist.append(current_epsilon)
         # avg_reward[agent] = np.mean(self.accumulated_reward[agent][-100:])
 
-        print_info = {
-            "EP": episode,
-            "Reward": f"{acc_r:.5}",
-            "Avg Reward": f"{np.mean(self.accumulated_reward[agent][-100:]):.3}",
-            "Epsilon": f"{current_epsilon:.3}",
-            "Steps": f"{self.vehicles[agent].agent_step}",
-            "Distance": f"{self.vehicles[agent].get_dist():.2f}",
-        }
-        print(", ".join(f"{k}: {v}" for k, v in print_info.items()))
         return
     
     def quiet_close(self):

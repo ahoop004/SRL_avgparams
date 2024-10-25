@@ -1,12 +1,36 @@
-
-
 from collections import deque
 from utils import Utils
 from rl_algorithms.dqn.peragent import PERAgent
 from environment.env import Env
 from utils.net_parser import NetParser
+import wandb
 
+def update_nested_dict(base_dict, update_dict):
+    for key, value in update_dict.items():
+        keys = key.split('.')
+        d = base_dict
+        for k in keys[:-1]:
+            d = d.setdefault(k, {})
+        d[keys[-1]] = value
 
+def main():
+    # Load base config
+    base_config = Utils.load_yaml_config('src/configurations/config.yaml')
+
+    # Initialize wandb
+    wandb.init(
+        project=base_config['wandb']['project_name'],
+        entity=base_config['wandb']['entity'],
+        name=base_config['wandb']['name'],
+        group=base_config['wandb']['group'],
+        config=base_config  # Pass the base config to wandb
+    )
+
+    # Update base_config with wandb.config (in case wandb.config has updates)
+    update_nested_dict(base_config, dict(wandb.config))
+
+    # Proceed with training
+    main_training_loop(base_config)
 
 def main_training_loop(config):
     """
@@ -15,23 +39,19 @@ def main_training_loop(config):
 
     env = create_env(config=config)
 
-    num_vehicles=8
-   
+    num_vehicles=2
     agents = [create_agent(config=config, agent_id=i) for i in range(num_vehicles)]
     best_reward = float('-inf')
     rolling_rewards = deque(maxlen=100)
     
-
     for episode in range(config['training_settings']['episodes']):
         cumulative_rewards = [0] * num_vehicles
         dones = [False] * num_vehicles
 
         steps = 0
 
-        if episode % 1000 == 0:
-            env.render("human")
-        else:
-            env.render()
+
+        env.render()
 
         states = env.reset()
         taxi_fleet = env.vehicles
@@ -42,53 +62,62 @@ def main_training_loop(config):
             actions = [None] * num_vehicles
             dispatched_indices = [i for i, vehicle in enumerate(taxi_fleet) if vehicle.dispatched]
 
-
             for i in dispatched_indices:
                 if not dones[i]:
            
                     actions[i] = agents[i].choose_action(states[i])
 
-
             if any(x is not None for x in actions):
                 next_states, rewards, dones, infos = env.step(actions)
                 steps += 1
 
-            
-            targets = []
-
-
             for i in dispatched_indices:
 
                 if actions[i] is not None and next_states[i] != 0:
-
                     agents[i].remember(states[i], actions[i], rewards[i],next_states[i], dones[i])
-                    # agents[i].remember(states[i], actions[i], rewards[i], next_states[i], dones[i])
                     if len(agents[i].memory) > agents[i].batch_size:
-
                         agents[i].replay(agents[i].batch_size)
-
-                        for j in dispatched_indices:
-                            params = agents[j].policy_net.state_dict()
-                            targets.append(params)
-                        agents[i].hard_update(targets)
-                    # states[i] = next_states[i]
-                    
+                        
+                        agents[i].hard_update()
                     states[i] = next_states[i]
 
-
-                    
             for i in dispatched_indices:
                 cumulative_rewards[i] += rewards[i]
+                
 
-            
+                
+
 
         episode_reward = sum(cumulative_rewards)
         rolling_rewards.append(episode_reward) 
         rolling_avg = sum(rolling_rewards) / len(rolling_rewards)
 
-    
         print(f"{episode} {[f'{reward:.3f}' for reward in cumulative_rewards]} {rolling_avg:.3f} {steps}'" )
-        for i in dispatched_indices:
+        
+        for i in range(len(agents)):
+                wandb.log({
+                    f'agent_{i}/episode_reward': cumulative_rewards[i],
+                    f'agent_{i}/epsilon': agents[i].get_epsilon(),
+                    f'agent_{i}/steps': steps
+                }, step=episode)
+
+        wandb.log({
+            'episode': episode,
+            'episode reward total':episode_reward,
+            f'agent_{0}/episode_reward': cumulative_rewards[0],
+            f'agent_{0}/epsilon': agents[0].get_epsilon(),
+            f'agent_{0}/steps': steps,
+            f'agent_{1}/episode_reward': cumulative_rewards[1],
+            f'agent_{1}/epsilon': agents[1].get_epsilon(),
+            f'agent_{1}/steps': steps
+                }, step=episode)
+            
+      
+        
+        
+        
+        
+        for i in range(len(agents)):
                 agents[i].decay()
         env.quiet_close()
         if episode_reward > best_reward:
@@ -146,6 +175,8 @@ def create_agent(config,agent_id,
     alpha = config['per_hyperparameters']['alpha']
     beta = config['per_hyperparameters']['beta']
     priority_epsilon = config['per_hyperparameters']['priority_epsilon']
+    seed  = config['training_settings']['seed']
+    
     
 
     return PERAgent(20, 6, experiment_path,
@@ -162,17 +193,27 @@ def create_agent(config,agent_id,
                     alpha,
                     beta,
                     priority_epsilon,
+                    seed
                     # memory=central_memory,
                     # target_net=target_net
                     )
 
 if __name__ == "__main__":
-    
-    try:
-        config = Utils.load_yaml_config('src/configurations/config.yaml')
-        main_training_loop(config)
-    except Exception as e:
-        print(f"Error occurred: {e}")
+    # Load the base config
+    base_config = Utils.load_yaml_config('src/configurations/config.yaml')
+
+    # Initialize the sweep
+    sweep_config = base_config['wandb'].get('sweep_config', None)
+
+    if sweep_config:
+        # Create sweep
+        sweep_id = wandb.sweep(sweep_config, project=base_config['wandb']['project_name'], entity=base_config['wandb']['entity'])
+
+        # Run the sweep agent
+        wandb.agent(sweep_id, function=main)
+    else:
+        # If no sweep_config, just run main
+        main()
 
 
 

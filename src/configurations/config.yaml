@@ -1,33 +1,48 @@
 wandb:
   project_name: "sumo-rl"  
   entity: "researchlab-yr404"
-  name: "sumo-rl-test"
-  # group: "3x3-5"
-  group: "Marl-test"
+  name: "avg_params"
+  group: "Marl-avg_params"
+  sweep_config:
+    method: grid  # or 'grid', 'bayes'
+    metric:
+      name: episode_reward
+      goal: maximize
+    parameters:
+      agent_hyperparameters.seed:
+        values: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+      # agent_hyperparameters.gamma:
+      #   values: [0.95, 0.99, 0.999]
+      # agent_hyperparameters.epsilon_decay:
+      #   values: [0.995, 0.999, 0.9995, 0.9999]
+      # agent_hyperparameters.batch_size:
+      #   values: [32, 64, 128]
+      # agent_hyperparameters.memory_size:
+      #   values: [5000, 10000, 50000]
+      # per_hyperparameters.alpha:
+      #   values: [0.4, 0.6, 0.8]
+      # per_hyperparameters.beta:
+      #   values: [0.4, 0.6, 0.8]
+      # per_hyperparameters.priority_epsilon:
+      #   values: [0.0001, 0.001, 0.01]
 
 # Training settings
 training_settings:
   episodes: 15000             
-  # experiment_path: "Experiments/3x3_6/"
-  # sumoconfig: "Nets/3x3.sumocfg"    
   experiment_path: 'data/balt/'
   sumoconfig: "Nets/osm.sumocfg"
   savepath: "models/" 
   loadpath: "models/"                        
-  initial_life: .10                    
+  initial_life: .1                    
   penalty: -0.2 
-  seed: 6
-                   
-#person 
-person_settings:
+  seed: 1
 
-
-#experiment values
+# Environment settings
 env:
-  num_of_agents: 8   #number of community vehicles                  
-  num_of_people: 5           # number of passengers per episode            
+  num_of_agents: 2  # Number of community vehicles                  
+  num_of_people: 5  # Number of passengers per episode            
   types_of_passengers: 2
-  num_agents: 2           
+  num_agents: 2
 
 # Agent hyperparameters
 agent_hyperparameters:
@@ -40,8 +55,8 @@ agent_hyperparameters:
   epsilon_min: 0.05                   
   penalty: -0.2  
 
-  # Priority Experience Replay
+# Priority Experience Replay hyperparameters
 per_hyperparameters:
-  alpha: 0.06
-  beta: 0.04
-  priority_epsilon: .00001
+  alpha: 0.6
+  beta: 0.4
+  priority_epsilon: 0.00001
