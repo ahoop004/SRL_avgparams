@@ -4,6 +4,10 @@ from .observation import Observation
 from .vehicle import Vehicle
 from utils.utils import Utils
 import copy
+import torch
+import torch.nn as nn
+import torch.optim as optim
+import torch.nn.functional as F
 
 
 class Env():
@@ -363,3 +367,37 @@ class Env():
         for edge in route:
             distances.append(self.sumo.lane.getLength(''.join([edge, '_0'])))
         return round(sum(distances))
+
+    def average_model_parameters(self,agents):
+        """
+        Averages the parameters of the models across all agents.
+        
+        Args:
+            agents (list): List of agent instances, each containing a model (DQN or similar).
+            
+        Returns:
+            dict: Averaged parameters to be used in all models.
+        """
+        # Get a copy of the first agent's model parameters to use as the base for averaging
+        avg_params = copy.deepcopy(agents[0].policy_net.state_dict())
+        
+        # Initialize each parameter in avg_params to zero
+        for key in avg_params:
+            avg_params[key] = torch.zeros_like(avg_params[key], dtype=torch.float32)
+        
+        # Sum parameters across all agents
+        for agent in agents:
+            model_params = agent.policy_net.state_dict()
+            for key in avg_params:
+                # Convert to float if the parameter is of type Long
+                if model_params[key].dtype == torch.long:
+                    avg_params[key] += model_params[key].float()
+                else:
+                    avg_params[key] += model_params[key]
+        
+        # Average parameters by dividing by the number of agents
+        num_agents = len(agents)
+        for key in avg_params:
+            avg_params[key] /= num_agents
+
+        return avg_params

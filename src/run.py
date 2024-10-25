@@ -71,6 +71,8 @@ def main_training_loop(config):
                 next_states, rewards, dones, infos = env.step(actions)
                 steps += 1
 
+            update_needed = False
+
             for i in dispatched_indices:
 
                 if actions[i] is not None and next_states[i] != 0:
@@ -78,8 +80,12 @@ def main_training_loop(config):
                     if len(agents[i].memory) > agents[i].batch_size:
                         agents[i].replay(agents[i].batch_size)
                         
-                        agents[i].hard_update()
+                        update_needed = True
                     states[i] = next_states[i]
+            if update_needed:
+                avg_params = env.average_model_parameters(agents)
+                for agent in agents:
+                    agent.target_net.load_state_dict(avg_params)
 
             for i in dispatched_indices:
                 cumulative_rewards[i] += rewards[i]
